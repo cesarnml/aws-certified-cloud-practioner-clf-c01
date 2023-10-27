@@ -9,7 +9,7 @@
 - [X] ~~*Lesson 002 - Creating an AWS Account*~~ [2023-10-26]
 - [X] ~~*Lesson 003 - Important Message*~~ [2023-10-26]
 - [X] ~~*Lesson 004 - About your instructor*~~ [2023-10-26]
-- [ ] Lesson 005 - Traditional IT Overview
+- [X] ~~*Lesson 005 - Traditional IT Overview*~~ [2023-10-27]
 - [ ] Lesson 006 - What is Cloud Computing
 - [ ] Lesson 007 - The Different Types of Cloud Computing
 - [ ] Lesson 008 - AWS Cloud Overview
