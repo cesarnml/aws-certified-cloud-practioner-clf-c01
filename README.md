@@ -1,15 +1,16 @@
-# AWS Certified Cloud Practioner Course - CLF-C01
+# AWS Certified Cloud Practioner Course - CLF-C02
 
-- [AWS Certified Cloud Practioner Course - CLF-C01](#aws-certified-cloud-practioner-course---clf-c01)
+- [AWS Certified Cloud Practioner Course - CLF-C02](#aws-certified-cloud-practioner-course---clf-c02)
   - [Lesson Plan](#lesson-plan)
   - [Notes](#notes)
 
 ## Lesson Plan
-- [X] ~~*Lesson 001 - Course Introduction*~~ [2023-10-26]
-- [X] ~~*Lesson 002 - Creating an AWS Account*~~ [2023-10-26]
-- [X] ~~*Lesson 003 - Important Message*~~ [2023-10-26]
-- [X] ~~*Lesson 004 - About your instructor*~~ [2023-10-26]
-- [X] ~~*Lesson 005 - Traditional IT Overview*~~ [2023-10-27]
+
+- [x] ~~_Lesson 001 - Course Introduction_~~ [2023-10-26]
+- [x] ~~_Lesson 002 - Creating an AWS Account_~~ [2023-10-26]
+- [x] ~~_Lesson 003 - Important Message_~~ [2023-10-26]
+- [x] ~~_Lesson 004 - About your instructor_~~ [2023-10-26]
+- [x] ~~_Lesson 005 - Traditional IT Overview_~~ [2023-10-27]
 - [ ] Lesson 006 - What is Cloud Computing
 - [ ] Lesson 007 - The Different Types of Cloud Computing
 - [ ] Lesson 008 - AWS Cloud Overview
@@ -249,7 +250,7 @@
 - [ ] Lesson 242 - AWS DataSync
 - [ ] Lesson 243 - Application Discovery Service & Application Migration Service
 - [ ] Lesson 244 - AWS Migration Evaluator
-- [ ] Lesson 245 - AWS Fault Injection Simulator (FIS) 
+- [ ] Lesson 245 - AWS Fault Injection Simulator (FIS)
 - [ ] Lesson 246 - Step Functions
 - [ ] Lesson 247 - Ground Station
 - [ ] Lesson 248 - AWS Pinpoint
