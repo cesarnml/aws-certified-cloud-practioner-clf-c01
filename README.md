@@ -28,7 +28,7 @@
   - [x] ~~_Lesson 014 - IAM Policies_~~ [2024-01-01]
   - [x] ~~_Lesson 015 - IAM Policies Hands On_~~ [2024-01-01]
   - [x] ~~_Lesson 016 - IAM MFA Overview_~~ [2024-01-03]
-  - [ ] Lesson 017 - IAM MFA Hands On
+  - [x] ~~_Lesson 017 - IAM MFA Hands On_~~ [2024-01-03]
   - [ ] Lesson 018 - AWS Access Keys, CLI and SDK
   - [ ] Lesson 019 - AWS CLI Setup on Windows
   - [ ] Lesson 020 - AWS CLI Setup on Mac
@@ -399,5 +399,10 @@
   - Virtual MFA Device:
     - Google Authenticator
     - Authy
-  - Universal 2nd Factor (U2F) Key
+  - Universal 2nd Factor (U2F) Key (Security Key)
     - YubiKey
+  - Hardware TOTP token
+- 3 Ways to Access AWS:
+  - AWS Management Console (password + MFA)
+  - AWS CLI (access keys)
+  -
