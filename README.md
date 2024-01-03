@@ -6,6 +6,7 @@
     - [1. Introduction](#1-introduction)
     - [2. What is Cloud Computing](#2-what-is-cloud-computing)
     - [3. IAM - Identity and Access Management](#3-iam---identity-and-access-management)
+    - [4. EC2 - Elastic Compute Cloud](#4-ec2---elastic-compute-cloud)
 
 ## Lesson Plan (30 hours)
 
@@ -44,7 +45,7 @@
   - [x] ~~_Lesson 030 - IAM Summary_~~ [2024-01-03]
 - [ ] 4. EC2 - Elastic Compute Cloud (85min)
   - [x] ~~_Lesson 031 - AWS Budget Setup_~~ [2024-01-03]
-  - [ ] Lesson 032 - EC2 Basics
+  - [x] ~~_Lesson 032 - EC2 Basics_~~ [2024-01-03]
   - [ ] Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On
   - [ ] Lesson 034 - EC2 Instance Types Basics
   - [ ] Lesson 035 - Security Groups & Classic Ports Overview
@@ -421,3 +422,15 @@
   - User (Me): Users, Groups, Policies, Management and Monitoring, Access Security
 - IAM Summary:
 - ![](img/Screenshot%202024-01-03%20at%2010.12.03 AM.png)
+
+### 4. EC2 - Elastic Compute Cloud
+
+- Amazon EC2 - Infrastructure as a Service
+  - Renting virtual machines (EC2 instances)
+  - Storage (EBS or EFS)
+  - Load balancers (ELB)
+  - Scale services - Auto-scaling group (ASG)
+- EC2 User Data (script):
+  - bootstrap commands to initialize EC2 instance on initial boot
+- EC2 instance types:
+  - `t2.micro`
