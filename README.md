@@ -39,7 +39,7 @@
   - [x] ~~_Lesson 025 - IAM Roles Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 026 - IAM Security Tools_~~ [2024-01-03]
   - [x] ~~_Lesson 027 - IAM Security Tools Hands On_~~ [2024-01-03]
-  - [ ] Lesson 028 - IAM Best Practices
+  - [x] ~~_Lesson 028 - IAM Best Practices_~~ [2024-01-03]
   - [ ] Lesson 029 - Shared Responsibility Model for IAM
   - [ ] Lesson 030 - IAM Summary
 - [ ] 4. EC2 - Elastic Compute Cloud (85min)
