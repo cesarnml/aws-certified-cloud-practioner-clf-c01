@@ -51,7 +51,7 @@
   - [x] ~~_Lesson 035 - Security Groups & Classic Ports Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 036 - Security Groups Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 037 - SSH Overview_~~ [2024-01-03]
-  - [ ] Lesson 038 - How to SSH using Linus or Mac
+  - [x] ~~_Lesson 038 - How to SSH using Linus or Mac_~~ [2024-01-03]
   - [ ] Lesson 039 - How to SSH using Windows
   - [ ] Lesson 040 - How to SSH using Windows 10
   - [ ] Lesson 041 - EC2 Instance Connect
@@ -450,3 +450,6 @@
   - By default: All in-bound traffic is BLOCKED; All out-bound traffic is ALLOWED
 - Ports to Know:
   - ![](img/Screenshot%202024-01-03%20at%201.45.51 PM.png)
+- SSH Login instructions:
+  - Use `.pem` key and change permission to `chmod 0400 FILE.pem`
+  - Run: `ssh -i FILE.pem ec2-user@PUBLIC_IP`
