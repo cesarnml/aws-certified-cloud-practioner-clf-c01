@@ -50,7 +50,7 @@
   - [x] ~~_Lesson 034 - EC2 Instance Types Basics_~~ [2024-01-03]
   - [x] ~~_Lesson 035 - Security Groups & Classic Ports Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 036 - Security Groups Hands On_~~ [2024-01-03]
-  - [ ] Lesson 037 - SSH Overview
+  - [x] ~~_Lesson 037 - SSH Overview_~~ [2024-01-03]
   - [ ] Lesson 038 - How to SSH using Linus or Mac
   - [ ] Lesson 039 - How to SSH using Windows
   - [ ] Lesson 040 - How to SSH using Windows 10
