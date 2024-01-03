@@ -35,7 +35,7 @@
   - [x] ~~_Lesson 021 - AWS CLI Setup on Linux_~~ [2024-01-03]
   - [x] ~~_Lesson 022 - AWS CLI Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 023 - AWS CloudShell_~~ [2024-01-03]
-  - [ ] Lesson 024 - IAM Roles for AWS Services
+  - [x] ~~_Lesson 024 - IAM Roles for AWS Services_~~ [2024-01-03]
   - [ ] Lesson 025 - IAM Roles Hands On
   - [ ] Lesson 026 - IAM Security Tools
   - [ ] Lesson 027 - IAM Security Tools Hands On
@@ -409,3 +409,7 @@
 - Access Keys are generated via AWS Management Console
 - `aws configure` - to setup aws cli with access key
 - AWS CloudShell - browser-based terminal to interact with `aws-cli`
+- IAM Roles (how we give permission to AWS Services)
+  - EC2 Instance Roles
+  - Lambda Function Roles
+  - Roles for CloudFormation
