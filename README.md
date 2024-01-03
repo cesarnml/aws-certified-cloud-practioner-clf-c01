@@ -22,7 +22,7 @@
   - [x] ~~_Lesson 009 - Tour of the Console & Services in AWS_~~ [2024-01-01]
   - [x] ~~_Lesson 010 - About the UI changes in the course_~~ [2024-01-01]
   - [x] ~~_Lesson 011 - Shared Responsibility Model & AWS Acceptable Policy_~~ [2024-01-01]
-- [ ] 3. IAM - Identity and Access Management (57min)
+- [x] ~~_3. IAM - Identity and Access Management (57min)_~~ [2024-01-03]
   - [x] ~~_Lesson 012 - IAM Introduction: Users, Groups, Policies_~~ [2024-01-01]
   - [x] ~~_Lesson 013 - IAM Users & Groups Hands On_~~ [2024-01-01]
   - [x] ~~_Lesson 014 - IAM Policies_~~ [2024-01-01]
@@ -419,3 +419,5 @@
 - Shared Responsibility Model
   - AWS: Infrastructure, Configuration, Compliance Validation
   - User (Me): Users, Groups, Policies, Management and Monitoring, Access Security
+- IAM Summary:
+- ![](img/Screenshot%202024-01-03%20at%2010.12.03 AM.png)
