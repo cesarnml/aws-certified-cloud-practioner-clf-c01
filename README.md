@@ -7,6 +7,7 @@
     - [2. What is Cloud Computing](#2-what-is-cloud-computing)
     - [3. IAM - Identity and Access Management](#3-iam---identity-and-access-management)
     - [4. EC2 - Elastic Compute Cloud](#4-ec2---elastic-compute-cloud)
+    - [5. EC2 Instance Storage](#5-ec2-instance-storage)
 
 ## Lesson Plan (30 hours)
 
@@ -59,11 +60,11 @@
   - [x] ~~_Lesson 043 - EC2 Instance Purchasing Options_~~ [2024-01-03]
   - [x] ~~_Lesson 044 - Shared Responsibility Model for EC2_~~ [2024-01-03]
   - [x] ~~_Lesson 045 - EC2 Summary_~~ [2024-01-03]
-- [ ] 5. EC2 Instance Storage (43min)
-  - [ ] Lesson 046 - EBS Overview
-  - [ ] Lesson 047 - EBS Hands On
-  - [ ] Lesson 048 - EBS Snapshots Overview
-  - [ ] Lesson 049 - EBS Snapshots Hands On
+- [ ] _5. EC2 Instance Storage (43min)_
+  - [x] ~~_Lesson 046 - EBS Overview_~~ [2024-01-03]
+  - [x] ~~_Lesson 047 - EBS Hands On_~~ [2024-01-03]
+  - [x] ~~_Lesson 048 - EBS Snapshots Overview_~~ [2024-01-03]
+  - [x] ~~_Lesson 049 - EBS Snapshots Hands On_~~ [2024-01-03]
   - [ ] Lesson 050 - AMI Overview
   - [ ] Lesson 051 - AMI Hands On
   - [ ] Lesson 052 - EC2 Image Builder Overview
@@ -463,3 +464,13 @@
   - EC2 Spot Instances - MOST cost-efficient - good for batch jobs, image processing, data analysis, flexible start/end time, distributed workloads; not suitable for critical jobs/databases
 - EC2 Summary:
   - ![](img/Screenshot%202024-01-03%20at%203.19.31 PM.png)
+
+### 5. EC2 Instance Storage
+
+- Elastic Block Store (EBS) Volume is a `network drive` that can be attached to an EC2 Instance - must be on same AZ
+- EBS Snapshots - backup EBS Volumes
+  - Useful in order to move an EBS volume to a different AZ
+  - Recommended to detach EBS volume prior to generating snapshot
+  - Features:
+    - EBS Snapshot Archive - cheaper cost but delay in restore (1-3 days)
+    - EBS Snapshot Recycle Bin - prevents accidental deletion of EBS Snapshots (1-day to 1-year)
