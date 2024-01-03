@@ -52,8 +52,8 @@
   - [x] ~~_Lesson 036 - Security Groups Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 037 - SSH Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 038 - How to SSH using Linus or Mac_~~ [2024-01-03]
-  - [ ] Lesson 039 - How to SSH using Windows
-  - [ ] Lesson 040 - How to SSH using Windows 10
+  - [x] ~~_Lesson 039 - How to SSH using Windows_~~ [2024-01-03]
+  - [x] ~~_Lesson 040 - How to SSH using Windows 10_~~ [2024-01-03]
   - [ ] Lesson 041 - EC2 Instance Connect
   - [ ] Lesson 042 - EC2 Instance Roles Demo
   - [ ] Lesson 043 - EC2 Instance Purchasing Options
