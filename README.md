@@ -40,7 +40,7 @@
   - [x] ~~_Lesson 026 - IAM Security Tools_~~ [2024-01-03]
   - [x] ~~_Lesson 027 - IAM Security Tools Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 028 - IAM Best Practices_~~ [2024-01-03]
-  - [ ] Lesson 029 - Shared Responsibility Model for IAM
+  - [x] ~~_Lesson 029 - Shared Responsibility Model for IAM_~~ [2024-01-03]
   - [ ] Lesson 030 - IAM Summary
 - [ ] 4. EC2 - Elastic Compute Cloud (85min)
   - [ ] Lesson 031 - AWS Budget Setup
@@ -416,3 +416,6 @@
 - IAM Security Tools:
   - IAM Credentials Report (account-level)
   - IAM Access Advisor (user-level)
+- Shared Responsibility Model
+  - AWS: Infrastructure, Configuration, Compliance Validation
+  - User (Me): Users, Groups, Policies, Management and Monitoring, Access Security
