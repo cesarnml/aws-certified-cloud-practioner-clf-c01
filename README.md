@@ -34,7 +34,7 @@
   - [x] ~~_Lesson 020 - AWS CLI Setup on Mac_~~ [2024-01-03]
   - [x] ~~_Lesson 021 - AWS CLI Setup on Linux_~~ [2024-01-03]
   - [x] ~~_Lesson 022 - AWS CLI Hands On_~~ [2024-01-03]
-  - [ ] Lesson 023 - AWS CloudShell
+  - [x] ~~_Lesson 023 - AWS CloudShell_~~ [2024-01-03]
   - [ ] Lesson 024 - IAM Roles for AWS Services
   - [ ] Lesson 025 - IAM Roles Hands On
   - [ ] Lesson 026 - IAM Security Tools
@@ -408,3 +408,4 @@
   - AWS SDK (protected by: access keys)
 - Access Keys are generated via AWS Management Console
 - `aws configure` - to setup aws cli with access key
+- AWS CloudShell - browser-based terminal to interact with `aws-cli`
