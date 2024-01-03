@@ -29,7 +29,7 @@
   - [x] ~~_Lesson 015 - IAM Policies Hands On_~~ [2024-01-01]
   - [x] ~~_Lesson 016 - IAM MFA Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 017 - IAM MFA Hands On_~~ [2024-01-03]
-  - [ ] Lesson 018 - AWS Access Keys, CLI and SDK
+  - [x] ~~_Lesson 018 - AWS Access Keys, CLI and SDK_~~ [2024-01-03]
   - [ ] Lesson 019 - AWS CLI Setup on Windows
   - [ ] Lesson 020 - AWS CLI Setup on Mac
   - [ ] Lesson 021 - AWS CLI Setup on Linux
@@ -403,6 +403,8 @@
     - YubiKey
   - Hardware TOTP token
 - 3 Ways to Access AWS:
-  - AWS Management Console (password + MFA)
-  - AWS CLI (access keys)
-  -
+  - AWS Management Console (protected by: password + MFA)
+  - AWS CLI (protected by: access keys)
+  - AWS SDK (protected by: access keys)
+- Access Keys are generated via AWS Management Console
+-
