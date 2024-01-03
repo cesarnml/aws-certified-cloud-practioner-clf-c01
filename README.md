@@ -65,8 +65,8 @@
   - [x] ~~_Lesson 047 - EBS Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 048 - EBS Snapshots Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 049 - EBS Snapshots Hands On_~~ [2024-01-03]
-  - [ ] Lesson 050 - AMI Overview
-  - [ ] Lesson 051 - AMI Hands On
+  - [x] ~~_Lesson 050 - AMI Overview_~~ [2024-01-03]
+  - [x] ~~_Lesson 051 - AMI Hands On_~~ [2024-01-04]
   - [ ] Lesson 052 - EC2 Image Builder Overview
   - [ ] Lesson 053 - EC2 Instance Store
   - [ ] Lesson 054 - EFS Overview
@@ -474,3 +474,7 @@
   - Features:
     - EBS Snapshot Archive - cheaper cost but delay in restore (1-3 days)
     - EBS Snapshot Recycle Bin - prevents accidental deletion of EBS Snapshots (1-day to 1-year)
+- AMI - Amazon Machine Image - a \*_customization_ of an EC2 instance
+  - There are **public** AMIs managed by AWS
+  - Can create **custom** AMIs
+  - Can launch **AWS Marketplace AMI**
