@@ -43,7 +43,7 @@
   - [x] ~~_Lesson 029 - Shared Responsibility Model for IAM_~~ [2024-01-03]
   - [x] ~~_Lesson 030 - IAM Summary_~~ [2024-01-03]
 - [ ] 4. EC2 - Elastic Compute Cloud (85min)
-  - [ ] Lesson 031 - AWS Budget Setup
+  - [x] ~~_Lesson 031 - AWS Budget Setup_~~ [2024-01-03]
   - [ ] Lesson 032 - EC2 Basics
   - [ ] Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On
   - [ ] Lesson 034 - EC2 Instance Types Basics
