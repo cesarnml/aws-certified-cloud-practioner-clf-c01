@@ -49,7 +49,7 @@
   - [x] ~~_Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 034 - EC2 Instance Types Basics_~~ [2024-01-03]
   - [x] ~~_Lesson 035 - Security Groups & Classic Ports Overview_~~ [2024-01-03]
-  - [ ] Lesson 036 - Security Groups Hands On
+  - [x] ~~_Lesson 036 - Security Groups Hands On_~~ [2024-01-03]
   - [ ] Lesson 037 - SSH Overview
   - [ ] Lesson 038 - How to SSH using Linus or Mac
   - [ ] Lesson 039 - How to SSH using Windows
