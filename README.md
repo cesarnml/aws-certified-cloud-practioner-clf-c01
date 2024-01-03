@@ -43,7 +43,7 @@
   - [x] ~~_Lesson 028 - IAM Best Practices_~~ [2024-01-03]
   - [x] ~~_Lesson 029 - Shared Responsibility Model for IAM_~~ [2024-01-03]
   - [x] ~~_Lesson 030 - IAM Summary_~~ [2024-01-03]
-- [ ] 4. EC2 - Elastic Compute Cloud (85min)
+- [x] ~~_4. EC2 - Elastic Compute Cloud (85min)_~~ [2024-01-03]
   - [x] ~~_Lesson 031 - AWS Budget Setup_~~ [2024-01-03]
   - [x] ~~_Lesson 032 - EC2 Basics_~~ [2024-01-03]
   - [x] ~~_Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On_~~ [2024-01-03]
@@ -56,9 +56,9 @@
   - [x] ~~_Lesson 040 - How to SSH usingWindows 10_~~ [2024-01-03]
   - [x] ~~_Lesson 041 - EC2 Instance Connect_~~ [2024-01-03]w
   - [x] ~~_Lesson 042 - EC2 Instance Roles Demo_~~ [2024-01-03]
-  - [ ] Lesson 043 - EC2 Instance Purchasing Options
-  - [ ] Lesson 044 - Shared Responsibility Model for EC2
-  - [ ] Lesson 045 - EC2 Summary
+  - [x] ~~_Lesson 043 - EC2 Instance Purchasing Options_~~ [2024-01-03]
+  - [x] ~~_Lesson 044 - Shared Responsibility Model for EC2_~~ [2024-01-03]
+  - [x] ~~_Lesson 045 - EC2 Summary_~~ [2024-01-03]
 - [ ] 5. EC2 Instance Storage (43min)
   - [ ] Lesson 046 - EBS Overview
   - [ ] Lesson 047 - EBS Hands On
@@ -454,4 +454,12 @@
   - Use `.pem` key and change permission to `chmod 0400 FILE.pem`
   - Run: `ssh -i FILE.pem ec2-user@PUBLIC_IP`
 - EC2 Instance Connect - browser-based access to an EC2 Instance via AWS Management Console
-- EC2 Instance Roles - authorize services
+- EC2 Instance Roles - authorize services for a given instance
+- EC2 Instances Purchasing Options:
+  - ![](./img/Screenshot%202024-01-03%20at%203.07.14 PM.png)
+  - EC2 On Demand: billing per second, after first minute
+  - EC2 Reserve Instances: Instance Type, Region, Tenancy, OS, Reservation Period (1-,3-years), Payment Options, Good for databases, Resell in Reserved Instance Marketplace - Convertible Reserved Instance for a bit more flexibility but less savings
+  - EC2 Savings Plans - locked payment/hour then On-Demand, locked type
+  - EC2 Spot Instances - MOST cost-efficient - good for batch jobs, image processing, data analysis, flexible start/end time, distributed workloads; not suitable for critical jobs/databases
+- EC2 Summary:
+  - ![](img/Screenshot%202024-01-03%20at%203.19.31 PM.png)
