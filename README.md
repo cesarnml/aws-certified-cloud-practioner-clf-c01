@@ -54,8 +54,8 @@
   - [x] ~~_Lesson 038 - How to SSH using Linus or Mac_~~ [2024-01-03]
   - [x] ~~_Lesson 039 - How to SSH using Windows_~~ [2024-01-03]
   - [x] ~~_Lesson 040 - How to SSH usingWindows 10_~~ [2024-01-03]
-  - [x] ~~_Lesson 041 - EC2 Instance Connect_~~ [2024-01-03]
-  - [ ] Lesson 042 - EC2 Instance Roles Demo
+  - [x] ~~_Lesson 041 - EC2 Instance Connect_~~ [2024-01-03]w
+  - [x] ~~_Lesson 042 - EC2 Instance Roles Demo_~~ [2024-01-03]
   - [ ] Lesson 043 - EC2 Instance Purchasing Options
   - [ ] Lesson 044 - Shared Responsibility Model for EC2
   - [ ] Lesson 045 - EC2 Summary
@@ -454,3 +454,4 @@
   - Use `.pem` key and change permission to `chmod 0400 FILE.pem`
   - Run: `ssh -i FILE.pem ec2-user@PUBLIC_IP`
 - EC2 Instance Connect - browser-based access to an EC2 Instance via AWS Management Console
+- EC2 Instance Roles - authorize services
