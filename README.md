@@ -46,7 +46,7 @@
 - [ ] 4. EC2 - Elastic Compute Cloud (85min)
   - [x] ~~_Lesson 031 - AWS Budget Setup_~~ [2024-01-03]
   - [x] ~~_Lesson 032 - EC2 Basics_~~ [2024-01-03]
-  - [ ] Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On
+  - [x] ~~_Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On_~~ [2024-01-03]
   - [ ] Lesson 034 - EC2 Instance Types Basics
   - [ ] Lesson 035 - Security Groups & Classic Ports Overview
   - [ ] Lesson 036 - Security Groups Hands On
