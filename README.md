@@ -30,9 +30,9 @@
   - [x] ~~_Lesson 016 - IAM MFA Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 017 - IAM MFA Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 018 - AWS Access Keys, CLI and SDK_~~ [2024-01-03]
-  - [ ] Lesson 019 - AWS CLI Setup on Windows
-  - [ ] Lesson 020 - AWS CLI Setup on Mac
-  - [ ] Lesson 021 - AWS CLI Setup on Linux
+  - [x] ~~_Lesson 019 - AWS CLI Setup on Windows_~~ [2024-01-03]
+  - [x] ~~_Lesson 020 - AWS CLI Setup on Mac_~~ [2024-01-03]
+  - [x] ~~_Lesson 021 - AWS CLI Setup on Linux_~~ [2024-01-03]
   - [ ] Lesson 022 - AWS CLI Hands On
   - [ ] Lesson 023 - AWS CloudShell
   - [ ] Lesson 024 - IAM Roles for AWS Services
