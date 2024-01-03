@@ -36,7 +36,7 @@
   - [x] ~~_Lesson 022 - AWS CLI Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 023 - AWS CloudShell_~~ [2024-01-03]
   - [x] ~~_Lesson 024 - IAM Roles for AWS Services_~~ [2024-01-03]
-  - [ ] Lesson 025 - IAM Roles Hands On
+  - [x] ~~_Lesson 025 - IAM Roles Hands On_~~ [2024-01-03]
   - [ ] Lesson 026 - IAM Security Tools
   - [ ] Lesson 027 - IAM Security Tools Hands On
   - [ ] Lesson 028 - IAM Best Practices
@@ -413,3 +413,4 @@
   - EC2 Instance Roles
   - Lambda Function Roles
   - Roles for CloudFormation
+- IAM Security Tools:
