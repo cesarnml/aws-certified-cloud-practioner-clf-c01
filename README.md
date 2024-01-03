@@ -37,8 +37,8 @@
   - [x] ~~_Lesson 023 - AWS CloudShell_~~ [2024-01-03]
   - [x] ~~_Lesson 024 - IAM Roles for AWS Services_~~ [2024-01-03]
   - [x] ~~_Lesson 025 - IAM Roles Hands On_~~ [2024-01-03]
-  - [ ] Lesson 026 - IAM Security Tools
-  - [ ] Lesson 027 - IAM Security Tools Hands On
+  - [x] ~~_Lesson 026 - IAM Security Tools_~~ [2024-01-03]
+  - [x] ~~_Lesson 027 - IAM Security Tools Hands On_~~ [2024-01-03]
   - [ ] Lesson 028 - IAM Best Practices
   - [ ] Lesson 029 - Shared Responsibility Model for IAM
   - [ ] Lesson 030 - IAM Summary
@@ -414,3 +414,5 @@
   - Lambda Function Roles
   - Roles for CloudFormation
 - IAM Security Tools:
+  - IAM Credentials Report (account-level)
+  - IAM Access Advisor (user-level)
