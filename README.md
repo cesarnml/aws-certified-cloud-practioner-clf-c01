@@ -48,7 +48,7 @@
   - [x] ~~_Lesson 032 - EC2 Basics_~~ [2024-01-03]
   - [x] ~~_Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 034 - EC2 Instance Types Basics_~~ [2024-01-03]
-  - [ ] Lesson 035 - Security Groups & Classic Ports Overview
+  - [x] ~~_Lesson 035 - Security Groups & Classic Ports Overview_~~ [2024-01-03]
   - [ ] Lesson 036 - Security Groups Hands On
   - [ ] Lesson 037 - SSH Overview
   - [ ] Lesson 038 - How to SSH using Linus or Mac
@@ -421,7 +421,7 @@
   - AWS: Infrastructure, Configuration, Compliance Validation
   - User (Me): Users, Groups, Policies, Management and Monitoring, Access Security
 - IAM Summary:
-- ![](img/Screenshot%202024-01-03%20at%2010.12.03 AM.png)
+  - ![](img/Screenshot%202024-01-03%20at%2010.12.03 AM.png)
 
 ### 4. EC2 - Elastic Compute Cloud
 
@@ -443,3 +443,10 @@
   - Memory Optimized (r)
   - Storage Optimized (i,d,h1)
   - [EC2 Instance Type Comparison Site](https://instances.vantage.sh/)
+- Security Groups - fundamental to `network security` in AWS
+  - Control how traffic is allowed in and out of EC2 instances
+  - Only contain `allow` rules
+  - Can reference by IP or security group
+  - By default: All in-bound traffic is BLOCKED; All out-bound traffic is ALLOWED
+- Ports to Know:
+  - ![](img/Screenshot%202024-01-03%20at%201.45.51 PM.png)
