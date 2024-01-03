@@ -27,7 +27,7 @@
   - [x] ~~_Lesson 013 - IAM Users & Groups Hands On_~~ [2024-01-01]
   - [x] ~~_Lesson 014 - IAM Policies_~~ [2024-01-01]
   - [x] ~~_Lesson 015 - IAM Policies Hands On_~~ [2024-01-01]
-  - [ ] Lesson 016 - IAM MFA Overview
+  - [x] ~~_Lesson 016 - IAM MFA Overview_~~ [2024-01-03]
   - [ ] Lesson 017 - IAM MFA Hands On
   - [ ] Lesson 018 - AWS Access Keys, CLI and SDK
   - [ ] Lesson 019 - AWS CLI Setup on Windows
@@ -309,7 +309,7 @@
 ### 1. Introduction
 
 - AWS Cloud Practioner Exam - CLF-C02
-- Will cover ~40 AWS services (out of 200+)
+- Will cover ~40 AWS services (out of 400+)
 - Stephane Maarek (instructor)
 
 ### 2. What is Cloud Computing
@@ -391,3 +391,13 @@
     - Principal: `account`, `user` or `role` which policy applies to
     - Action: list of actions allowed or denied by policy
     - Resource: list of resources that policy applies to
+- ARN: Amazon Resource Name
+- MFA: Multi-Factor Authentication
+  - MFA = password you **know** + security device you **own**
+- Best practice to use MFA on Root Account and **all** IAM users
+- MFA options:
+  - Virtual MFA Device:
+    - Google Authenticator
+    - Authy
+  - Universal 2nd Factor (U2F) Key
+    - YubiKey
