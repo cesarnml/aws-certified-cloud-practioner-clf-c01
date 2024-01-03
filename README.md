@@ -41,7 +41,7 @@
   - [x] ~~_Lesson 027 - IAM Security Tools Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 028 - IAM Best Practices_~~ [2024-01-03]
   - [x] ~~_Lesson 029 - Shared Responsibility Model for IAM_~~ [2024-01-03]
-  - [ ] Lesson 030 - IAM Summary
+  - [x] ~~_Lesson 030 - IAM Summary_~~ [2024-01-03]
 - [ ] 4. EC2 - Elastic Compute Cloud (85min)
   - [ ] Lesson 031 - AWS Budget Setup
   - [ ] Lesson 032 - EC2 Basics
