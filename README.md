@@ -47,7 +47,7 @@
   - [x] ~~_Lesson 031 - AWS Budget Setup_~~ [2024-01-03]
   - [x] ~~_Lesson 032 - EC2 Basics_~~ [2024-01-03]
   - [x] ~~_Lesson 033 - Create an EC2 Instance with EC2 User Data to have a Website Hands On_~~ [2024-01-03]
-  - [ ] Lesson 034 - EC2 Instance Types Basics
+  - [x] ~~_Lesson 034 - EC2 Instance Types Basics_~~ [2024-01-03]
   - [ ] Lesson 035 - Security Groups & Classic Ports Overview
   - [ ] Lesson 036 - Security Groups Hands On
   - [ ] Lesson 037 - SSH Overview
@@ -434,3 +434,12 @@
   - bootstrap commands to initialize EC2 instance on initial boot
 - EC2 instance types:
   - `t2.micro`
+  - `t` - instance `class`
+  - `2` - instance `generation`
+  - `micro` - instance `size`
+- Types:
+  - General Purpose (t)
+  - Compute Optimized (c)
+  - Memory Optimized (r)
+  - Storage Optimized (i,d,h1)
+  - [EC2 Instance Type Comparison Site](https://instances.vantage.sh/)
