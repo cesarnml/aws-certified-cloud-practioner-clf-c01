@@ -105,26 +105,26 @@
   - [x] ~~_Lesson 082 - AWS Snow Family Hands On_~~ [2024-01-04]
   - [x] ~~_Lesson 083 - Storage Gateway Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 084 - S3 Summary_~~ [2024-01-04]
-- [ ] 8. Databases & Analytics (48min)
+- [x] ~~_8. Databases & Analytics (48min)_~~ [2024-01-04]
   - [x] ~~_Lesson 085 - Databases Introduction_~~ [2024-01-04]
   - [x] ~~_Lesson 086 - RDS & Aurora Overview_~~ [2024-01-04]
-  - [ ] Lesson 087 - RDS Hands On
-  - [ ] Lesson 088 - RDS Deployments Options
-  - [ ] Lesson 089 - ElastiCache Overview
-  - [ ] Lesson 090 - DynamoDB Overview
-  - [ ] Lesson 091 - DynamoDB Hands On
-  - [ ] Lesson 092 - DynamoDB Global Tables
-  - [ ] Lesson 093 - Redshift Overview
-  - [ ] Lesson 094 - EMR Overview
-  - [ ] Lesson 095 - Athena Overview
-  - [ ] Lesson 096 - QuickSight Overview
-  - [ ] Lesson 097 - DocumentDB Overview
-  - [ ] Lesson 098 - Neptune Overview
-  - [ ] Lesson 099 - QLDB Overview
-  - [ ] Lesson 100 - Managed Blockchain Overview
-  - [ ] Lesson 101 - Glue Overview
-  - [ ] Lesson 102 - DMS Overview
-  - [ ] Lesson 103 - Databases & Analytics Summary
+  - [x] ~~_Lesson 087 - RDS Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 088 - RDS Deployments Options_~~ [2024-01-04]
+  - [x] ~~_Lesson 089 - ElastiCache Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 090 - DynamoDB Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 091 - DynamoDB Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 092 - DynamoDB Global Tables_~~ [2024-01-04]
+  - [x] ~~_Lesson 093 - Redshift Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 094 - EMR Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 095 - Athena Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 096 - QuickSight Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 097 - DocumentDB Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 098 - Neptune Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 099 - QLDB Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 100 - Managed Blockchain Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 101 - Glue Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 102 - DMS Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 103 - Databases & Analytics Summary_~~ [2024-01-04]
 - [ ] 9. Other Compute Services: ECS, Lambda, Batch, Lightsail (39min)
   - [ ] Lesson 104 - What is Docker?
   - [ ] Lesson 105 - ECS, Fargate & ECR Overview
