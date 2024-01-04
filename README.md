@@ -79,7 +79,7 @@
   - [x] ~~_Lesson 059 - High Availability, Scalability, Elasticity_~~ [2024-01-04]
   - [x] ~~_Lesson 060 - Elastic Load Balancing (ELB) Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 061 - Application Load Balancer (ALB) Hands On_~~ [2024-01-04]
-  - [ ] Lesson 062 - Auto Scaling Groups (ASG) Overview
+  - [x] ~~_Lesson 062 - Auto Scaling Groups (ASG) Overview_~~ [2024-01-04]
   - [ ] Lesson 063 - Auto Scaling Groups (ASG) Hands On
   - [ ] Lesson 064 - Auto Scaling Groups (ASG) Strategies
   - [ ] Lesson 065 - Section Cleanup
@@ -509,3 +509,5 @@
     - Gateway Load Balancer - Layer 3
     - Classic Load Balancer (retired in 2023) - Layer 4 and Layer 7
   - It would be cheaper to setup your own LB, but more work on you
+- Auto Scaling Group (ASG)
+  - Add/Remove (scale out/in) EC2 instances as load increases/decreases
