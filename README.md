@@ -9,6 +9,7 @@
     - [4. EC2 - Elastic Compute Cloud](#4-ec2---elastic-compute-cloud)
     - [5. EC2 Instance Storage](#5-ec2-instance-storage)
     - [6. ELB \& ASG - Elastic Load Balancing \& Auto Scaling Groups](#6-elb--asg---elastic-load-balancing--auto-scaling-groups)
+    - [7. Amazon S3 (Simple Storage Solution)](#7-amazon-s3-simple-storage-solution)
 
 ## Lesson Plan (30 hours)
 
@@ -75,14 +76,14 @@
   - [x] ~~_Lesson 056 - Amazon FSx Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 057 - EC2 Instance Storage Summary_~~ [2024-01-04]
   - [x] ~~_Lesson 058 - Section Cleanup_~~ [2024-01-04]
-- [ ] 6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (39min)
+- [x] ~~_6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (39min)_~~ [2024-01-04]
   - [x] ~~_Lesson 059 - High Availability, Scalability, Elasticity_~~ [2024-01-04]
   - [x] ~~_Lesson 060 - Elastic Load Balancing (ELB) Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 061 - Application Load Balancer (ALB) Hands On_~~ [2024-01-04]
   - [x] ~~_Lesson 062 - Auto Scaling Groups (ASG) Overview_~~ [2024-01-04]
-  - [ ] Lesson 063 - Auto Scaling Groups (ASG) Hands On
-  - [ ] Lesson 064 - Auto Scaling Groups (ASG) Strategies
-  - [ ] Lesson 065 - Section Cleanup
+  - [x] ~~_Lesson 063 - Auto Scaling Groups (ASG) Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 064 - Auto Scaling Groups (ASG) Strategies_~~ [2024-01-04]
+  - [x] ~~_Lesson 065 - Section Cleanup_~~ [2024-01-04]
 - [ ] 7. Amazon S3 (67min)
   - [ ] Lesson 066 - ELB & ASG Summary
   - [ ] Lesson 067 - S3 Overview
@@ -511,3 +512,33 @@
   - It would be cheaper to setup your own LB, but more work on you
 - Auto Scaling Group (ASG)
   - Add/Remove (scale out/in) EC2 instances as load increases/decreases
+  - Manual Scaling
+  - Dynamic Scaling
+    - Simple/Step Scaling
+    - Target Tracking Scaling
+    - Scheduled Scaling
+    - Predictive Scaling
+- ELB & ASG Summary:
+  - ![](./img/Screenshot%202024-01-04%20at%207.16.50 AM.png)
+
+### 7. Amazon S3 (Simple Storage Solution)
+
+- `Infinite Scaling` storage solution
+- Used for:
+  - backup and storage
+  - disaster recovery
+  - archive
+  - hybrid cloud storage
+  - application hosting
+  - media hosting
+  - data lakes & big data analytics
+  - software delivery
+  - static websites
+- Amazon S3
+  - store objects (files) in buckets (directories)
+  - buckets must have a globally unique name
+  - buckets are defined at the region level
+  - names must have no uppercase, no underscore
+  - 3-62 characters long
+  - objects must have a `key`
+  - object values are the content of the body (5 TB limit)
