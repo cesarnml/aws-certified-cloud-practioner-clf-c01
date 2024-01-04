@@ -78,7 +78,7 @@
 - [ ] 6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (39min)
   - [x] ~~_Lesson 059 - High Availability, Scalability, Elasticity_~~ [2024-01-04]
   - [x] ~~_Lesson 060 - Elastic Load Balancing (ELB) Overview_~~ [2024-01-04]
-  - [ ] Lesson 061 - Application Load Balancer (ALB) Hands On
+  - [x] ~~_Lesson 061 - Application Load Balancer (ALB) Hands On_~~ [2024-01-04]
   - [ ] Lesson 062 - Auto Scaling Groups (ASG) Overview
   - [ ] Lesson 063 - Auto Scaling Groups (ASG) Hands On
   - [ ] Lesson 064 - Auto Scaling Groups (ASG) Strategies
