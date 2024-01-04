@@ -90,10 +90,10 @@
   - [x] ~~_Lesson 068 - S3 Hands On_~~ [2024-01-04]
   - [x] ~~_Lesson 069 - S3 Security: Bucket Policy_~~ [2024-01-04]
   - [x] ~~_Lesson 070 - S3 Security: Bucket Policy Hands On_~~ [2024-01-04]
-  - [ ] Lesson 071 - S3 Website Overview
-  - [ ] Lesson 072 - S3 Website Hands On
-  - [ ] Lesson 073 - S3 Versioning Overview
-  - [ ] Lesson 074 - S3 Versioning Hands On
+  - [x] ~~_Lesson 071 - S3 Website Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 072 - S3 Website Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 073 - S3 Versioning Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 074 - S3 Versioning Hands On_~~ [2024-01-04]
   - [ ] Lesson 075 - S3 Replication Overview
   - [ ] Lesson 076 - S3 Replication Hands On
   - [ ] Lesson 077 - S3 Storage Classes Overview
@@ -550,4 +550,6 @@
     - Object Access Control List (ACL)
     - Bucket Access Control List (ACL)
   - Encryption
--
+- Amazon S3 - Versioning
+  - Enabled at the bucket level
+  - Best practice to version buckets
