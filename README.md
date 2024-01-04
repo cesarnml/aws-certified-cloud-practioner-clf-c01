@@ -10,6 +10,7 @@
     - [5. EC2 Instance Storage](#5-ec2-instance-storage)
     - [6. ELB \& ASG - Elastic Load Balancing \& Auto Scaling Groups](#6-elb--asg---elastic-load-balancing--auto-scaling-groups)
     - [7. Amazon S3 (Simple Storage Solution)](#7-amazon-s3-simple-storage-solution)
+    - [8. Databases \& Analytics](#8-databases--analytics)
 
 ## Lesson Plan (30 hours)
 
@@ -105,7 +106,7 @@
   - [x] ~~_Lesson 083 - Storage Gateway Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 084 - S3 Summary_~~ [2024-01-04]
 - [ ] 8. Databases & Analytics (48min)
-  - [ ] Lesson 085 - Databases Introduction
+  - [x] ~~_Lesson 085 - Databases Introduction_~~ [2024-01-04]
   - [ ] Lesson 086 - RDS & Aurora Overview
   - [ ] Lesson 087 - RDS Hands On
   - [ ] Lesson 088 - RDS Deployments Options
@@ -574,3 +575,7 @@
 - Storage Gateway - bridge between on-premise data and cloud data in S3
 - S3 Summary:
   - ![](./img/Screenshot%202024-01-04%20at%204.33.07 PM.png)
+
+### 8. Databases & Analytics
+
+- AWS RDS Overview
