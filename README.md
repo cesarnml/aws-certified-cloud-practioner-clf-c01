@@ -77,7 +77,7 @@
   - [x] ~~_Lesson 058 - Section Cleanup_~~ [2024-01-04]
 - [ ] 6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (39min)
   - [x] ~~_Lesson 059 - High Availability, Scalability, Elasticity_~~ [2024-01-04]
-  - [ ] Lesson 060 - Elastic Load Balancing (ELB) Overview
+  - [x] ~~_Lesson 060 - Elastic Load Balancing (ELB) Overview_~~ [2024-01-04]
   - [ ] Lesson 061 - Application Load Balancer (ALB) Hands On
   - [ ] Lesson 062 - Auto Scaling Groups (ASG) Overview
   - [ ] Lesson 063 - Auto Scaling Groups (ASG) Hands On
@@ -503,3 +503,9 @@
 - Vertical Scalability vs Horizontal Scalability
 - High Availability running on at least 2 AZ
 - Elastic Load Balancing (ELB) Overview
+  - 4 Types of Load Balancers on AWS:
+    - Application Load Balancer (HTTP/HTTPS) - Layer 7
+    - Network Load Balancer (ultra-high performance, allows TCP) - Layer 4
+    - Gateway Load Balancer - Layer 3
+    - Classic Load Balancer (retired in 2023) - Layer 4 and Layer 7
+  - It would be cheaper to setup your own LB, but more work on you
