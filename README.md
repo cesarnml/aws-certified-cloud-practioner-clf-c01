@@ -8,6 +8,7 @@
     - [3. IAM - Identity and Access Management](#3-iam---identity-and-access-management)
     - [4. EC2 - Elastic Compute Cloud](#4-ec2---elastic-compute-cloud)
     - [5. EC2 Instance Storage](#5-ec2-instance-storage)
+    - [6. ELB \& ASG - Elastic Load Balancing \& Auto Scaling Groups](#6-elb--asg---elastic-load-balancing--auto-scaling-groups)
 
 ## Lesson Plan (30 hours)
 
@@ -75,7 +76,7 @@
   - [x] ~~_Lesson 057 - EC2 Instance Storage Summary_~~ [2024-01-04]
   - [x] ~~_Lesson 058 - Section Cleanup_~~ [2024-01-04]
 - [ ] 6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (39min)
-  - [ ] Lesson 059 - High Availability, Scalability, Elasticity
+  - [x] ~~_Lesson 059 - High Availability, Scalability, Elasticity_~~ [2024-01-04]
   - [ ] Lesson 060 - Elastic Load Balancing (ELB) Overview
   - [ ] Lesson 061 - Application Load Balancer (ALB) Hands On
   - [ ] Lesson 062 - Auto Scaling Groups (ASG) Overview
@@ -496,3 +497,9 @@
     - For NetApp ONTAP
 - EC2 Instance Storage Summary:
   - ![](img/Screenshot%202024-01-04%20at%207.16.50 AM.png)
+
+### 6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups
+
+- Vertical Scalability vs Horizontal Scalability
+- High Availability running on at least 2 AZ
+- Elastic Load Balancing (ELB) Overview
