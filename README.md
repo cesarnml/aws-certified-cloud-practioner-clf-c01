@@ -60,20 +60,20 @@
   - [x] ~~_Lesson 043 - EC2 Instance Purchasing Options_~~ [2024-01-03]
   - [x] ~~_Lesson 044 - Shared Responsibility Model for EC2_~~ [2024-01-03]
   - [x] ~~_Lesson 045 - EC2 Summary_~~ [2024-01-03]
-- [ ] _5. EC2 Instance Storage (43min)_
+- [x] ~~_*5. EC2 Instance Storage (43min)*_~~ [2024-01-04]
   - [x] ~~_Lesson 046 - EBS Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 047 - EBS Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 048 - EBS Snapshots Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 049 - EBS Snapshots Hands On_~~ [2024-01-03]
   - [x] ~~_Lesson 050 - AMI Overview_~~ [2024-01-03]
   - [x] ~~_Lesson 051 - AMI Hands On_~~ [2024-01-04]
-  - [ ] Lesson 052 - EC2 Image Builder Overview
-  - [ ] Lesson 053 - EC2 Instance Store
-  - [ ] Lesson 054 - EFS Overview
-  - [ ] Lesson 055 Shared Responsibility Model for EC2 Storage
-  - [ ] Lesson 056 - Amazon FSx Overview
-  - [ ] Lesson 057 - EC2 Instance Storage Summary
-  - [ ] Lesson 058 - Section Cleanup
+  - [x] ~~_Lesson 052 - EC2 Image Builder Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 053 - EC2 Instance Store_~~ [2024-01-04]
+  - [x] ~~_Lesson 054 - EFS Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 055 Shared Responsibility Model for EC2 Storage_~~ [2024-01-04]
+  - [x] ~~_Lesson 056 - Amazon FSx Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 057 - EC2 Instance Storage Summary_~~ [2024-01-04]
+  - [x] ~~_Lesson 058 - Section Cleanup_~~ [2024-01-04]
 - [ ] 6. ELB & ASG - Elastic Load Balancing & Auto Scaling Groups (39min)
   - [ ] Lesson 059 - High Availability, Scalability, Elasticity
   - [ ] Lesson 060 - Elastic Load Balancing (ELB) Overview
@@ -478,3 +478,21 @@
   - There are **public** AMIs managed by AWS
   - Can create **custom** AMIs
   - Can launch **AWS Marketplace AMI**
+- EC2 Image Builder - used to automate the creation of VMs or container images
+  - Creation, Maintain and Validate EC2 AMIs
+  - Can run on a schedule
+- EC2 Instance Store - high-performance hardware disk (better than EBS - network)
+  - ephemeral
+  - Good for buffer / cache / scratch data - not good for long-term storage
+  - Must be backup and replicate as needed by service
+- EFS - Elastic File System (Managed NFS) can be mounted to 100s of EC2 instances
+  - works only on Linux EC2 and in multi-AZ
+  - EFS-IA (Elastic File System - Infrequent Access) - 92% lower cost
+  - Storage class is cost-optimized for files not accessed frequently via Life Cycle Policy
+- Amazon FSx
+  - Launch 3rd party HPFS (High-Performance FileSystem)
+    - For Lustre - High Performance Computing - Machine Learning/Analytics/Financial Modeling
+    - For Windows File Server
+    - For NetApp ONTAP
+- EC2 Instance Storage Summary:
+  - ![](img/Screenshot%202024-01-04%20at%207.16.50 AM.png)
