@@ -84,9 +84,9 @@
   - [x] ~~_Lesson 063 - Auto Scaling Groups (ASG) Hands On_~~ [2024-01-04]
   - [x] ~~_Lesson 064 - Auto Scaling Groups (ASG) Strategies_~~ [2024-01-04]
   - [x] ~~_Lesson 065 - Section Cleanup_~~ [2024-01-04]
+  - [x] ~~_Lesson 066 - ELB & ASG Summary_~~ [2024-01-04]
 - [ ] 7. Amazon S3 (67min)
-  - [ ] Lesson 066 - ELB & ASG Summary
-  - [ ] Lesson 067 - S3 Overview
+  - [x] ~~_Lesson 067 - S3 Overview_~~ [2024-01-04]
   - [ ] Lesson 068 - S3 Hands On
   - [ ] Lesson 069 - S3 Security: Bucket Policy
   - [ ] Lesson 070 - S3 Security: Bucket Policy Hands On
