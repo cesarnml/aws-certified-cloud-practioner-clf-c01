@@ -85,7 +85,7 @@
   - [x] ~~_Lesson 064 - Auto Scaling Groups (ASG) Strategies_~~ [2024-01-04]
   - [x] ~~_Lesson 065 - Section Cleanup_~~ [2024-01-04]
   - [x] ~~_Lesson 066 - ELB & ASG Summary_~~ [2024-01-04]
-- [ ] 7. Amazon S3 (67min)
+- [x] ~~_7. Amazon S3 (67min)_~~ [2024-01-04]
   - [x] ~~_Lesson 067 - S3 Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 068 - S3 Hands On_~~ [2024-01-04]
   - [x] ~~_Lesson 069 - S3 Security: Bucket Policy_~~ [2024-01-04]
@@ -94,16 +94,16 @@
   - [x] ~~_Lesson 072 - S3 Website Hands On_~~ [2024-01-04]
   - [x] ~~_Lesson 073 - S3 Versioning Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 074 - S3 Versioning Hands On_~~ [2024-01-04]
-  - [ ] Lesson 075 - S3 Replication Overview
-  - [ ] Lesson 076 - S3 Replication Hands On
-  - [ ] Lesson 077 - S3 Storage Classes Overview
-  - [ ] Lesson 078 - S3 Storage Classes Hands On
-  - [ ] Lesson 079 - S3 Encryption
-  - [ ] Lesson 080 - Shared Responsibility Model for S3
-  - [ ] Lesson 081 - AWS Snow Family Overview
-  - [ ] Lesson 082 - AWS Snow Family Hands On
-  - [ ] Lesson 083 - Storage Gateway Overview
-  - [ ] Lesson 084 - S3 Summary
+  - [x] ~~_Lesson 075 - S3 Replication Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 076 - S3 Replication Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 077 - S3 Storage Classes Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 078 - S3 Storage Classes Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 079 - S3 Encryption_~~ [2024-01-04]
+  - [x] ~~_Lesson 080 - Shared Responsibility Model for S3_~~ [2024-01-04]
+  - [x] ~~_Lesson 081 - AWS Snow Family Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 082 - AWS Snow Family Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 083 - Storage Gateway Overview_~~ [2024-01-04]
+  - [x] ~~_Lesson 084 - S3 Summary_~~ [2024-01-04]
 - [ ] 8. Databases & Analytics (48min)
   - [ ] Lesson 085 - Databases Introduction
   - [ ] Lesson 086 - RDS & Aurora Overview
@@ -553,3 +553,24 @@
 - Amazon S3 - Versioning
   - Enabled at the bucket level
   - Best practice to version buckets
+- Amazon S3 - Replication
+  - CRR - Cross Region Replication
+  - SRR - Same Region Replication
+  - Must enable Versioning in source and destination buckets
+- S3 Storage Classes
+  - Amazon S3 Standard
+  - Amazon S3 Standard-Infrequent Access (IA)
+  - Amazon S3 One Zone-Infrequent Access
+  - Amazon S3 Glacier Instant Retrieval
+  - Amazon S3 Glacier Flexible Retrieval
+  - Amazon S3 Glacier Deep Retrieval
+  - Amazon S3 Intelligent Tiering
+- S3 Encryption
+  - Server-Side Encryption (by default on) vs Client-Side Encryption
+- AWS Snow Family
+  - Offline devices to perform data migrations
+  - AWS Snowball, Snowcone, Snowmobile
+- AWS OpsHub (UI for Snow-family)
+- Storage Gateway - bridge between on-premise data and cloud data in S3
+- S3 Summary:
+  - ![](./img/Screenshot%202024-01-04%20at%204.33.07 PM.png)
