@@ -87,9 +87,9 @@
   - [x] ~~_Lesson 066 - ELB & ASG Summary_~~ [2024-01-04]
 - [ ] 7. Amazon S3 (67min)
   - [x] ~~_Lesson 067 - S3 Overview_~~ [2024-01-04]
-  - [ ] Lesson 068 - S3 Hands On
-  - [ ] Lesson 069 - S3 Security: Bucket Policy
-  - [ ] Lesson 070 - S3 Security: Bucket Policy Hands On
+  - [x] ~~_Lesson 068 - S3 Hands On_~~ [2024-01-04]
+  - [x] ~~_Lesson 069 - S3 Security: Bucket Policy_~~ [2024-01-04]
+  - [x] ~~_Lesson 070 - S3 Security: Bucket Policy Hands On_~~ [2024-01-04]
   - [ ] Lesson 071 - S3 Website Overview
   - [ ] Lesson 072 - S3 Website Hands On
   - [ ] Lesson 073 - S3 Versioning Overview
@@ -542,3 +542,12 @@
   - 3-62 characters long
   - objects must have a `key`
   - object values are the content of the body (5 TB limit)
+- Amazon S3 Security
+  - User-Based:
+    - IAM Policies that dictate which API calls should be allowed for a specific user
+  - Resource-Based:
+    - Bucket Policies - allows cross account access
+    - Object Access Control List (ACL)
+    - Bucket Access Control List (ACL)
+  - Encryption
+-
