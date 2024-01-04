@@ -107,7 +107,7 @@
   - [x] ~~_Lesson 084 - S3 Summary_~~ [2024-01-04]
 - [ ] 8. Databases & Analytics (48min)
   - [x] ~~_Lesson 085 - Databases Introduction_~~ [2024-01-04]
-  - [ ] Lesson 086 - RDS & Aurora Overview
+  - [x] ~~_Lesson 086 - RDS & Aurora Overview_~~ [2024-01-04]
   - [ ] Lesson 087 - RDS Hands On
   - [ ] Lesson 088 - RDS Deployments Options
   - [ ] Lesson 089 - ElastiCache Overview
@@ -578,4 +578,12 @@
 
 ### 8. Databases & Analytics
 
-- AWS RDS Overview
+- AWS RDS (Relational Database Service) Overview
+  - Postgres
+  - MySQL
+  - MariaDB
+  - Oracle
+  - Microsoft SQL Server
+  - Aurora DB (AWS Proprietary database)
+    - PostgreSQL (3x) and MySQL (5x)
+    - Grows at 10GB increment up to 128GB
