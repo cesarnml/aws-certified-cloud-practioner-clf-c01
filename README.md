@@ -213,8 +213,8 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 176 - DDoS Protection: WAF & Shield_~~ [2024-01-05]
   - [x] ~~_Lesson 177 - AWS Network Firewall_~~ [2024-01-05]
   - [x] ~~_Lesson 178 - Penetration Testing_~~ [2024-01-05]
-  - [ ] Lesson 179 - Encryption with KMS & CloudHSM
-  - [ ] Lesson 180 - Encryption with KMS & CloudHSM Hands On
+  - [x] ~~_Lesson 179 - Encryption with KMS & CloudHSM_~~ [2024-01-05]
+  - [x] ~~_Lesson 180 - Encryption with KMS & CloudHSM Hands On_~~ [2024-01-05]
   - [ ] Lesson 181 - AWS Certificate Manager (ACM) Overview
   - [ ] Lesson 182 - Secrets Manager Overview
   - [ ] Lesson 183 - Artifact Overview
@@ -791,4 +791,10 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
     - Lambda, Lambda Edge functions
     - Lightsail
     - Elastic Beanstalk
--
+- Encryption (2-types)
+  - Data at rest
+  - Data in transit
+  - AWS KMS (Key Management Service)
+  - CloudHSM (we manage the keys)
+  - Customer Master Keys (CMK) - Customer Manages CMK
+    - We manage the security of the keys - different from AWS managed CMK
