@@ -171,15 +171,15 @@
   - [x] ~~_Lesson 140 - AWS Local Zones_~~ [2024-01-05]
   - [x] ~~_Lesson 141 - Global Applications Architecture_~~ [2024-01-05]
   - [x] ~~_Lesson 142 - Leveraging the AWS Global Infrastructure Summary_~~ [2024-01-05]
-- [ ] 12. Cloud Integrations (18min)
+- [x] ~~_12. Cloud Integrations (18min)_~~ [2024-01-05]
   - [x] ~~_Lesson 143 - Cloud Integrations Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 144 - SQS Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 145 - SQS Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 146 - Kinesis Overview_~~ [2024-01-05]
-  - [ ] Lesson 147 - SNS Overview
-  - [ ] Lesson 148 - SNS Hands On
-  - [ ] Lesson 149 - Amazon MQ Overview
-  - [ ] Lesson 150 - Cloud Integrations Summary
+  - [x] ~~_Lesson 147 - SNS Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 148 - SNS Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 149 - Amazon MQ Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 150 - Cloud Integrations Summary_~~ [2024-01-05]
 - [ ] 13. Cloud Monitoring (40min)
   - [ ] Lesson 151 - CloudWatch Metrics & CloudWatch Alarms Overview
   - [ ] Lesson 152 - CloudWatch Metrics & CloudWatch Alarms Hands On
@@ -643,5 +643,12 @@
   - FIFO Queue
     - First In First Out
 - Kinesis
+  - Real-time big data streaming
+- Amazon SNS (pub/sub)
+  - Simple Notification Service
+    - SNS Topic - pub/sub model
 - Amazon MQ
+  - Uses open protocols to integrate with SQS and SNS (MQTT, AMQP, STOMP, Open wire, WSS)
+  - Helps during a migration
 - Cloud Integrations Summary:
+  - ![](./img/Screenshot%202024-01-05%20at%2012.19.47 PM.png)
