@@ -200,7 +200,7 @@
   - [x] ~~_Lesson 164 - VPC Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 165 - IP Addresses in AWS_~~ [2024-01-05]
   - [x] ~~_Lesson 166 - VPC, Subnet, Internet Gateway & NAT Gateways_~~ [2024-01-05]
-  - [ ] Lesson 167 - Security Groups & Network Access Control List (NACL)
+  - [x] ~~_Lesson 167 - Security Groups & Network Access Control List (NACL)_~~ [2024-01-05]
   - [ ] Lesson 168 - VPC Flow Logs & VPC Peering
   - [ ] Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)
   - [ ] Lesson 170 - PrivateLink
@@ -703,5 +703,10 @@
 - VPC & Subnets Primer
   - VPC - Virtual Private Cloud
   - Subnets (public and private)
+  - uses Route Tables
 - Internet Gateway & NAT Gateways
-  - helps VPC instances connect with the internet
+  - helps VPC instances and subnets connect with the internet (via routes to Internet Gateway)
+- NAT Gateways (AWS-managed) & NAT Instances (self-managed)
+  - Useful to allow private subnets to have access to the internet while remaining private
+- Each VPC can be attached to only 1 Internet Gateway
+-
