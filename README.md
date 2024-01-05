@@ -196,7 +196,7 @@
   - [x] ~~_Lesson 161 - AWS Health Dashboard_~~ [2024-01-05]
   - [x] ~~_Lesson 162 - AWS Health Dashboard - Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 163 - Cloud Monitoring Summary_~~ [2024-01-05]
-- [ ] 14. VPC & Networking (33min)
+- [x] ~~_14. VPC & Networking (33min)_~~ [2024-01-05]
   - [x] ~~_Lesson 164 - VPC Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 165 - IP Addresses in AWS_~~ [2024-01-05]
   - [x] ~~_Lesson 166 - VPC, Subnet, Internet Gateway & NAT Gateways_~~ [2024-01-05]
@@ -205,9 +205,9 @@
   - [x] ~~_Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)_~~ [2024-01-05]
   - [x] ~~_Lesson 170 - PrivateLink_~~ [2024-01-05]
   - [x] ~~_Lesson 171 - Direct Connect & Site-to-Site VPN_~~ [2024-01-05]
-  - [ ] Lesson 172 - Client VPN
-  - [ ] Lesson 173 - Transit Gateway Overview
-  - [ ] Lesson 174 - VPC & Networking Summary
+  - [x] ~~_Lesson 172 - Client VPN_~~ [2024-01-05]
+  - [x] ~~_Lesson 173 - Transit Gateway Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 174 - VPC & Networking Summary_~~ [2024-01-05]
 - [ ] 15. Security & Compliance (54min)
   - [ ] Lesson 175 - Shared Responsibility Model: Reminders & Examples
   - [ ] Lesson 176 - DDoS Protection: WAF & Shield
@@ -744,6 +744,9 @@
   - Connect on-premise VPN to AWS (encrypted)
 - AWS Client VPN
   - OpenVPN to your private network in AWS and on-premises
+  - Tunnel into the VPC using a AWS Client VPN (OpenVPN)
 - Transit Gateway
+  - a transitive peering between thousands of VPC. Hub-And-Spoke (star) connection
 - VPC & Networking Summary
-  - ![]()
+  - ![](./img/Screenshot%202024-01-05%20at%204.25.20 PM.png)
+  - ![](./img/Screenshot%202024-01-05%20at%204.26.05 PM.png)
