@@ -190,8 +190,8 @@
   - [x] ~~_Lesson 156 - EventBridge Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 157 - CloudTrail Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 158 - CloudTrail Hands On_~~ [2024-01-05]
-  - [ ] Lesson 159 - X-Ray Overview
-  - [ ] Lesson 160 - CodeGuru Overview
+  - [x] ~~_Lesson 159 - X-Ray Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 160 - CodeGuru Overview_~~ [2024-01-05]
   - [ ] Lesson 161 - AWS Health Dashboard
   - [ ] Lesson 162 - AWS Health Dashboard - Hands On
   - [ ] Lesson 163 - Cloud Monitoring Summary
@@ -673,6 +673,13 @@
   - Provides governance, compliance, and audit for your AWS Account
   - An history of events / API calls made within your AWS Account
 - X-Ray Overview
+  - Hard to track logs on distributed systems
+  - Can track requests and allows for troubleshooting
 - CodeGuru Overview
+  - ML-powered service
+  - Automated code reviews and application performance recommendations
+  - CodeGuru Reviewer - AI checks code quality
+  - CodeGuru Profiler - checks performance runtime performance
 - AWS Health Dashboard
+  -
 - Cloud Monitoring Summary
