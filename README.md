@@ -182,7 +182,7 @@
   - [x] ~~_Lesson 148 - SNS Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 149 - Amazon MQ Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 150 - Cloud Integrations Summary_~~ [2024-01-05]
-- [ ] 13. Cloud Monitoring (40min)
+- [x] ~~_13. Cloud Monitoring (40min)_~~ [2024-01-05]
   - [x] ~~_Lesson 151 - CloudWatch Metrics & CloudWatch Alarms Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 152 - CloudWatch Metrics & CloudWatch Alarms Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 153 - CloudWatch Logs Overview_~~ [2024-01-05]
@@ -195,7 +195,7 @@
   - [x] ~~_Lesson 160 - CodeGuru Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 161 - AWS Health Dashboard_~~ [2024-01-05]
   - [x] ~~_Lesson 162 - AWS Health Dashboard - Hands On_~~ [2024-01-05]
-  - [ ] Lesson 163 - Cloud Monitoring Summary
+  - [x] ~~_Lesson 163 - Cloud Monitoring Summary_~~ [2024-01-05]
 - [ ] 14. VPC & Networking (33min)
   - [ ] Lesson 164 - VPC Overview
   - [ ] Lesson 165 - IP Addresses in AWS
