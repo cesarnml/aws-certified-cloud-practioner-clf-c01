@@ -201,7 +201,7 @@
   - [x] ~~_Lesson 165 - IP Addresses in AWS_~~ [2024-01-05]
   - [x] ~~_Lesson 166 - VPC, Subnet, Internet Gateway & NAT Gateways_~~ [2024-01-05]
   - [x] ~~_Lesson 167 - Security Groups & Network Access Control List (NACL)_~~ [2024-01-05]
-  - [ ] Lesson 168 - VPC Flow Logs & VPC Peering
+  - [x] ~~_Lesson 168 - VPC Flow Logs & VPC Peering_~~ [2024-01-05]
   - [ ] Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)
   - [ ] Lesson 170 - PrivateLink
   - [ ] Lesson 171 - Direct Connect & Site-to-Site VPN
@@ -709,4 +709,21 @@
 - NAT Gateways (AWS-managed) & NAT Instances (self-managed)
   - Useful to allow private subnets to have access to the internet while remaining private
 - Each VPC can be attached to only 1 Internet Gateway
--
+- Network ACL - firewall which controls traffic from and to subnet
+  - Can have ALLOW and DENY rules
+  - Are attached to Subnet
+  - Rules can only include IP address
+- Security Groups
+  - operates on the instance level
+  - ENI (Elastic Network Interface) / an EC2 Instance
+  - Can only have ALLOW Rules
+  - IP address or other Security Groups
+- VPC Flow Logs
+  - log of all IP traffic going into your interfaces
+  - VPC Flow Logs
+  - Subnet Flow Logs
+  - Elastic Network Interface Flow Logs
+- VPC Peering
+  - Make to VPC work like they are in the same VPC
+  - Pairing is not transitive
+- VPC Endpoints
