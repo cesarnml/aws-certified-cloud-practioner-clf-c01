@@ -173,9 +173,9 @@
   - [x] ~~_Lesson 142 - Leveraging the AWS Global Infrastructure Summary_~~ [2024-01-05]
 - [ ] 12. Cloud Integrations (18min)
   - [x] ~~_Lesson 143 - Cloud Integrations Overview_~~ [2024-01-05]
-  - [ ] Lesson 144 - SQS Overview
-  - [ ] Lesson 145 - SQS Hands On
-  - [ ] Lesson 146 - Kinesis Overview
+  - [x] ~~_Lesson 144 - SQS Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 145 - SQS Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 146 - Kinesis Overview_~~ [2024-01-05]
   - [ ] Lesson 147 - SNS Overview
   - [ ] Lesson 148 - SNS Hands On
   - [ ] Lesson 149 - Amazon MQ Overview
@@ -635,7 +635,13 @@
 ### Cloud Integrations
 
 - SQS (Simple Queue Service)
+  - Producers - send messages into the SQS Queue
+  - Consumers - pull messages from the SQS Queue
+    - messages are created by Producers
+    - messages are destroyed by Consumers after processing
+  - 4 days default, 14 days max retention
+  - FIFO Queue
+    - First In First Out
 - Kinesis
 - Amazon MQ
 - Cloud Integrations Summary:
-  -
