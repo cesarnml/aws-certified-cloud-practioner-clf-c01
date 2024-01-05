@@ -14,7 +14,8 @@
     - [9. Other Compute Services: ECS Lambda, Batch, Lightsail](#9-other-compute-services-ecs-lambda-batch-lightsail)
     - [10. Deployment \& Managing Infrastructure at Scale](#10-deployment--managing-infrastructure-at-scale)
     - [11. Leveraging the AWS Global Infrastructure](#11-leveraging-the-aws-global-infrastructure)
-    - [Cloud Integrations](#cloud-integrations)
+    - [12. Cloud Integrations](#12-cloud-integrations)
+    - [13. Cloud Monitoring](#13-cloud-monitoring)
 
 ## Lesson Plan (30 hours)
 
@@ -181,10 +182,10 @@
   - [x] ~~_Lesson 149 - Amazon MQ Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 150 - Cloud Integrations Summary_~~ [2024-01-05]
 - [ ] 13. Cloud Monitoring (40min)
-  - [ ] Lesson 151 - CloudWatch Metrics & CloudWatch Alarms Overview
-  - [ ] Lesson 152 - CloudWatch Metrics & CloudWatch Alarms Hands On
-  - [ ] Lesson 153 - CloudWatch Logs Overview
-  - [ ] Lesson 154 - CloudWatch Logs Hands On
+  - [x] ~~_Lesson 151 - CloudWatch Metrics & CloudWatch Alarms Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 152 - CloudWatch Metrics & CloudWatch Alarms Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 153 - CloudWatch Logs Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 154 - CloudWatch Logs Hands On_~~ [2024-01-05]
   - [ ] Lesson 155 - EventBridge Overview (formerly CloudWatch Events)
   - [ ] Lesson 156 - EventBridge Hands On
   - [ ] Lesson 157 - CloudTrail Overview
@@ -632,7 +633,7 @@
   - ![](./img/Screenshot%202024-01-05%20at%2011.39.13 AM.png)
   - ![](./img/Screenshot%202024-01-05%20at%209.32.56 AM.png)
 
-### Cloud Integrations
+### 12. Cloud Integrations
 
 - SQS (Simple Queue Service)
   - Producers - send messages into the SQS Queue
@@ -652,3 +653,14 @@
   - Helps during a migration
 - Cloud Integrations Summary:
   - ![](./img/Screenshot%202024-01-05%20at%2012.19.47 PM.png)
+
+### 13. Cloud Monitoring
+
+- CloudWatch Metrics
+  - You can track Instance, Volume, ETC Metrics
+- CloudWatch Alarms
+  - You can trigger SNS Topics and more when certain metric conditions are met
+- CloudWatch Logs
+  - Allows for real-time monitoring of resources (EC2, EBS, RDS, SQS, SNS)
+  - For EC2, needs to be configured with a CloudWatch Logs Agent
+    and proper IAM Permissions via IAM Roles
