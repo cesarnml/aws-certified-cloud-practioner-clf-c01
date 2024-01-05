@@ -197,9 +197,9 @@
   - [x] ~~_Lesson 162 - AWS Health Dashboard - Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 163 - Cloud Monitoring Summary_~~ [2024-01-05]
 - [ ] 14. VPC & Networking (33min)
-  - [ ] Lesson 164 - VPC Overview
-  - [ ] Lesson 165 - IP Addresses in AWS
-  - [ ] Lesson 166 - VPC, Subnet, Internet Gateway & NAT Gateways
+  - [x] ~~_Lesson 164 - VPC Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 165 - IP Addresses in AWS_~~ [2024-01-05]
+  - [x] ~~_Lesson 166 - VPC, Subnet, Internet Gateway & NAT Gateways_~~ [2024-01-05]
   - [ ] Lesson 167 - Security Groups & Network Access Control List (NACL)
   - [ ] Lesson 168 - VPC Flow Logs & VPC Peering
   - [ ] Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)
@@ -688,3 +688,20 @@
   - ![](./img/Screenshot%202024-01-05%20at%202.53.33 PM.png)
 
 ### 14. VPC & Networking
+
+- Virtual Private Cloud (VPC)
+  - quite complicated - more needed for Solutions Architect and SysOps
+  - at CCP-level:
+    - VPC, Subnets, Internet Gateways & NAT Gateways
+    - Security Groups, Network ACL (NACL), VPC Flow Logs
+    - VPC Peering, VPC Endpoints
+    - Site to Site VPN & Direct Connect
+    - Transit Gateway
+- IPv4 -> Internet Protocol version 4 (xxx.xxx.xxx.xxx) 4.3 Billion Addresses
+- Elastic IP -> allows you to attach a fixed public IPv4 address to EC2 instance
+- IPv6 -> 3.4 x 10^38 addresses
+- VPC & Subnets Primer
+  - VPC - Virtual Private Cloud
+  - Subnets (public and private)
+- Internet Gateway & NAT Gateways
+  - helps VPC instances connect with the internet
