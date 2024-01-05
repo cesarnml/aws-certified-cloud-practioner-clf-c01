@@ -1,23 +1,22 @@
-# AWS Certified Cloud Practioner Course - CLF-C02
+omp# AWS Certified Cloud Practioner Course - CLF-C02
 
-- [AWS Certified Cloud Practioner Course - CLF-C02](#aws-certified-cloud-practioner-course---clf-c02)
-  - [Lesson Plan (30 hours)](#lesson-plan-30-hours)
-  - [Lesson Notes](#lesson-notes)
-    - [1. Introduction](#1-introduction)
-    - [2. What is Cloud Computing](#2-what-is-cloud-computing)
-    - [3. IAM - Identity and Access Management](#3-iam---identity-and-access-management)
-    - [4. EC2 - Elastic Compute Cloud](#4-ec2---elastic-compute-cloud)
-    - [5. EC2 Instance Storage](#5-ec2-instance-storage)
-    - [6. ELB \& ASG - Elastic Load Balancing \& Auto Scaling Groups](#6-elb--asg---elastic-load-balancing--auto-scaling-groups)
-    - [7. Amazon S3 (Simple Storage Solution)](#7-amazon-s3-simple-storage-solution)
-    - [8. Databases \& Analytics](#8-databases--analytics)
-    - [9. Other Compute Services: ECS Lambda, Batch, Lightsail](#9-other-compute-services-ecs-lambda-batch-lightsail)
-    - [10. Deployment \& Managing Infrastructure at Scale](#10-deployment--managing-infrastructure-at-scale)
-    - [11. Leveraging the AWS Global Infrastructure](#11-leveraging-the-aws-global-infrastructure)
-    - [12. Cloud Integrations](#12-cloud-integrations)
-    - [13. Cloud Monitoring](#13-cloud-monitoring)
-    - [14. VPC \& Networking](#14-vpc--networking)
-    - [15. Security \& Compliance](#15-security--compliance)
+- [Lesson Plan (30 hours)](#lesson-plan-30-hours)
+- [Lesson Notes](#lesson-notes)
+  - [1. Introduction](#1-introduction)
+  - [2. What is Cloud Computing](#2-what-is-cloud-computing)
+  - [3. IAM - Identity and Access Management](#3-iam---identity-and-access-management)
+  - [4. EC2 - Elastic Compute Cloud](#4-ec2---elastic-compute-cloud)
+  - [5. EC2 Instance Storage](#5-ec2-instance-storage)
+  - [6. ELB \& ASG - Elastic Load Balancing \& Auto Scaling Groups](#6-elb--asg---elastic-load-balancing--auto-scaling-groups)
+  - [7. Amazon S3 (Simple Storage Solution)](#7-amazon-s3-simple-storage-solution)
+  - [8. Databases \& Analytics](#8-databases--analytics)
+  - [9. Other Compute Services: ECS Lambda, Batch, Lightsail](#9-other-compute-services-ecs-lambda-batch-lightsail)
+  - [10. Deployment \& Managing Infrastructure at Scale](#10-deployment--managing-infrastructure-at-scale)
+  - [11. Leveraging the AWS Global Infrastructure](#11-leveraging-the-aws-global-infrastructure)
+  - [12. Cloud Integrations](#12-cloud-integrations)
+  - [13. Cloud Monitoring](#13-cloud-monitoring)
+  - [14. VPC \& Networking](#14-vpc--networking)
+  - [15. Security \& Compliance](#15-security--compliance)
 
 ## Lesson Plan (30 hours)
 
@@ -211,7 +210,7 @@
   - [x] ~~_Lesson 174 - VPC & Networking Summary_~~ [2024-01-05]
 - [ ] 15. Security & Compliance (54min)
   - [x] ~~_Lesson 175 - Shared Responsibility Model: Reminders & Examples_~~ [2024-01-05]
-  - [ ] Lesson 176 - DDoS Protection: WAF & Shield
+  - [x] ~~_Lesson 176 - DDoS Protection: WAF & Shield_~~ [2024-01-05]
   - [ ] Lesson 177 - AWS Network Firewall
   - [ ] Lesson 178 - Penetration Testing
   - [ ] Lesson 179 - Encryption with KMS & CloudHSM
@@ -758,4 +757,9 @@
   - AWS responsible for Security **of** the Cloud
   - You responsible for Security **in** the Cloud
   - ![](./img/Screenshot%202024-01-05%20at%204.29.41 PM.png)
--
+- DDOS Attack (Distributed Denial-of-Service)
+  - AWS Shield Standard
+  - AWS Shield Advanced
+  - AWS WAF (Web Application Firewall)
+  - CloudFront and Route53
+  - AWS Auto Scaling
