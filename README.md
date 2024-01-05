@@ -16,6 +16,7 @@
     - [11. Leveraging the AWS Global Infrastructure](#11-leveraging-the-aws-global-infrastructure)
     - [12. Cloud Integrations](#12-cloud-integrations)
     - [13. Cloud Monitoring](#13-cloud-monitoring)
+    - [14. VPC \& Networking](#14-vpc--networking)
 
 ## Lesson Plan (30 hours)
 
@@ -684,3 +685,6 @@
   - Service History - shows all regions, all services
   - AWS **Account** Health Dashboard - shows your own services
 - Cloud Monitoring Summary
+  - ![](./img/Screenshot%202024-01-05%20at%202.53.33 PM.png)
+
+### 14. VPC & Networking
