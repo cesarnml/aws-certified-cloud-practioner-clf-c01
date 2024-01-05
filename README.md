@@ -192,8 +192,8 @@
   - [x] ~~_Lesson 158 - CloudTrail Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 159 - X-Ray Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 160 - CodeGuru Overview_~~ [2024-01-05]
-  - [ ] Lesson 161 - AWS Health Dashboard
-  - [ ] Lesson 162 - AWS Health Dashboard - Hands On
+  - [x] ~~_Lesson 161 - AWS Health Dashboard_~~ [2024-01-05]
+  - [x] ~~_Lesson 162 - AWS Health Dashboard - Hands On_~~ [2024-01-05]
   - [ ] Lesson 163 - Cloud Monitoring Summary
 - [ ] 14. VPC & Networking (33min)
   - [ ] Lesson 164 - VPC Overview
@@ -681,5 +681,6 @@
   - CodeGuru Reviewer - AI checks code quality
   - CodeGuru Profiler - checks performance runtime performance
 - AWS Health Dashboard
-  -
+  - Service History - shows all regions, all services
+  - AWS **Account** Health Dashboard - shows your own services
 - Cloud Monitoring Summary
