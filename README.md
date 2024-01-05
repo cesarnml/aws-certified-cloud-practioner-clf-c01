@@ -779,3 +779,16 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - Protects entire Amazon VPC
   - From Layer 3 to Layer 7s
   - Any direction. Protect all the things. VPC-level
+- Penetration Testing
+  - Can tests AWS infrastructure without prior approval for 8 services
+    - EC2
+    - NAT Gateways
+    - Elastic Load Balancers
+    - RDS
+    - CloudFront
+    - Aurora
+    - API Gateways
+    - Lambda, Lambda Edge functions
+    - Lightsail
+    - Elastic Beanstalk
+-
