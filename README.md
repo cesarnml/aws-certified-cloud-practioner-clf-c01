@@ -203,8 +203,8 @@
   - [x] ~~_Lesson 167 - Security Groups & Network Access Control List (NACL)_~~ [2024-01-05]
   - [x] ~~_Lesson 168 - VPC Flow Logs & VPC Peering_~~ [2024-01-05]
   - [x] ~~_Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)_~~ [2024-01-05]
-  - [ ] Lesson 170 - PrivateLink
-  - [ ] Lesson 171 - Direct Connect & Site-to-Site VPN
+  - [x] ~~_Lesson 170 - PrivateLink_~~ [2024-01-05]
+  - [x] ~~_Lesson 171 - Direct Connect & Site-to-Site VPN_~~ [2024-01-05]
   - [ ] Lesson 172 - Client VPN
   - [ ] Lesson 173 - Transit Gateway Overview
   - [ ] Lesson 174 - VPC & Networking Summary
@@ -731,3 +731,19 @@
   - enhanced security and lower latency
 - VPC Endpoint Gateway - works only for S3 & DynamoDB
 - VPC Endpoint Interface - all other services
+- Private Link
+  - VPC Endpoint Services
+  - It's link VPC Peering at Scale - many, many VPC peering
+- Direct Connect (DX)
+  - a physical connection between on-premise and AWS
+  - takes at least a month to establish
+  - all private network
+- Site-to-Site VPN (hybrid solution)
+  - goes via the public internet
+  - needs Customer Gateway and Virtual Private Gateway
+  - Connect on-premise VPN to AWS (encrypted)
+- AWS Client VPN
+  - OpenVPN to your private network in AWS and on-premises
+- Transit Gateway
+- VPC & Networking Summary
+  - ![]()
