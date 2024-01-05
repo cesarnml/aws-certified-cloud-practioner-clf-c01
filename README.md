@@ -186,8 +186,8 @@
   - [x] ~~_Lesson 152 - CloudWatch Metrics & CloudWatch Alarms Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 153 - CloudWatch Logs Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 154 - CloudWatch Logs Hands On_~~ [2024-01-05]
-  - [ ] Lesson 155 - EventBridge Overview (formerly CloudWatch Events)
-  - [ ] Lesson 156 - EventBridge Hands On
+  - [x] ~~_Lesson 155 - EventBridge Overview (formerly CloudWatch Events)_~~ [2024-01-05]
+  - [x] ~~_Lesson 156 - EventBridge Hands On_~~ [2024-01-05]
   - [ ] Lesson 157 - CloudTrail Overview
   - [ ] Lesson 158 - CloudTrail Hands On
   - [ ] Lesson 159 - X-Ray Overview
@@ -664,3 +664,8 @@
   - Allows for real-time monitoring of resources (EC2, EBS, RDS, SQS, SNS)
   - For EC2, needs to be configured with a CloudWatch Logs Agent
     and proper IAM Permissions via IAM Roles
+- Amazon EventBridge
+  - formerly CloudWatch Events
+  - Good for CRON jobs or Event-based trigger Lambda functions
+  - Default Event Bus
+  - Partner Event Bus (3rd party events)
