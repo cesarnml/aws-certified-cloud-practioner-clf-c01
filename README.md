@@ -211,8 +211,8 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 - [ ] 15. Security & Compliance (54min)
   - [x] ~~_Lesson 175 - Shared Responsibility Model: Reminders & Examples_~~ [2024-01-05]
   - [x] ~~_Lesson 176 - DDoS Protection: WAF & Shield_~~ [2024-01-05]
-  - [ ] Lesson 177 - AWS Network Firewall
-  - [ ] Lesson 178 - Penetration Testing
+  - [x] ~~_Lesson 177 - AWS Network Firewall_~~ [2024-01-05]
+  - [x] ~~_Lesson 178 - Penetration Testing_~~ [2024-01-05]
   - [ ] Lesson 179 - Encryption with KMS & CloudHSM
   - [ ] Lesson 180 - Encryption with KMS & CloudHSM Hands On
   - [ ] Lesson 181 - AWS Certificate Manager (ACM) Overview
@@ -759,7 +759,23 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - ![](./img/Screenshot%202024-01-05%20at%204.29.41 PM.png)
 - DDOS Attack (Distributed Denial-of-Service)
   - AWS Shield Standard
+    - Free service and activated for every AWS customer
+    - Works on layer 3 and layer 4 (TCP)
   - AWS Shield Advanced
+    - $3,000/month per organization
+    - DRP - DDOS Response Team
+    - Layer 3,4 TCP
+    - Covers attack fees
   - AWS WAF (Web Application Firewall)
+    - Layer 7 (HTTP) protection
+    - Protection from common web exploits
+    - Define Web ACL (Web Access Control List)
+    - Protects against SQL injection and Cross-Site Scripting (XSS)
+    - Geo-match blocks
+    - Rate-based rules (rate-limiter)
   - CloudFront and Route53
   - AWS Auto Scaling
+- AWS Network Firewall
+  - Protects entire Amazon VPC
+  - From Layer 3 to Layer 7s
+  - Any direction. Protect all the things. VPC-level
