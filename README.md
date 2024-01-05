@@ -188,8 +188,8 @@
   - [x] ~~_Lesson 154 - CloudWatch Logs Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 155 - EventBridge Overview (formerly CloudWatch Events)_~~ [2024-01-05]
   - [x] ~~_Lesson 156 - EventBridge Hands On_~~ [2024-01-05]
-  - [ ] Lesson 157 - CloudTrail Overview
-  - [ ] Lesson 158 - CloudTrail Hands On
+  - [x] ~~_Lesson 157 - CloudTrail Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 158 - CloudTrail Hands On_~~ [2024-01-05]
   - [ ] Lesson 159 - X-Ray Overview
   - [ ] Lesson 160 - CodeGuru Overview
   - [ ] Lesson 161 - AWS Health Dashboard
@@ -666,6 +666,13 @@
     and proper IAM Permissions via IAM Roles
 - Amazon EventBridge
   - formerly CloudWatch Events
-  - Good for CRON jobs or Event-based trigger Lambda functions
+  - Good for CRON jobs or Event-based trigger Lambda functions (EventBridge Scheduler )
   - Default Event Bus
   - Partner Event Bus (3rd party events)
+- CloudTrail
+  - Provides governance, compliance, and audit for your AWS Account
+  - An history of events / API calls made within your AWS Account
+- X-Ray Overview
+- CodeGuru Overview
+- AWS Health Dashboard
+- Cloud Monitoring Summary
