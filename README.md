@@ -17,6 +17,7 @@
     - [12. Cloud Integrations](#12-cloud-integrations)
     - [13. Cloud Monitoring](#13-cloud-monitoring)
     - [14. VPC \& Networking](#14-vpc--networking)
+    - [15. Security \& Compliance](#15-security--compliance)
 
 ## Lesson Plan (30 hours)
 
@@ -209,7 +210,7 @@
   - [x] ~~_Lesson 173 - Transit Gateway Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 174 - VPC & Networking Summary_~~ [2024-01-05]
 - [ ] 15. Security & Compliance (54min)
-  - [ ] Lesson 175 - Shared Responsibility Model: Reminders & Examples
+  - [x] ~~_Lesson 175 - Shared Responsibility Model: Reminders & Examples_~~ [2024-01-05]
   - [ ] Lesson 176 - DDoS Protection: WAF & Shield
   - [ ] Lesson 177 - AWS Network Firewall
   - [ ] Lesson 178 - Penetration Testing
@@ -750,3 +751,11 @@
 - VPC & Networking Summary
   - ![](./img/Screenshot%202024-01-05%20at%204.25.20 PM.png)
   - ![](./img/Screenshot%202024-01-05%20at%204.26.05 PM.png)
+
+### 15. Security & Compliance
+
+- AWS Shared Responsibility Model
+  - AWS responsible for Security **of** the Cloud
+  - You responsible for Security **in** the Cloud
+  - ![](./img/Screenshot%202024-01-05%20at%204.29.41 PM.png)
+-
