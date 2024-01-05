@@ -11,6 +11,9 @@
     - [6. ELB \& ASG - Elastic Load Balancing \& Auto Scaling Groups](#6-elb--asg---elastic-load-balancing--auto-scaling-groups)
     - [7. Amazon S3 (Simple Storage Solution)](#7-amazon-s3-simple-storage-solution)
     - [8. Databases \& Analytics](#8-databases--analytics)
+    - [9. Other Compute Services: ECS Lambda, Batch, Lightsail](#9-other-compute-services-ecs-lambda-batch-lightsail)
+    - [10. Deployment \& Managing Infrastructure at Scale](#10-deployment--managing-infrastructure-at-scale)
+    - [11. Leveraging the AWS Global Infrastructure](#11-leveraging-the-aws-global-infrastructure)
 
 ## Lesson Plan (30 hours)
 
@@ -125,42 +128,42 @@
   - [x] ~~_Lesson 101 - Glue Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 102 - DMS Overview_~~ [2024-01-04]
   - [x] ~~_Lesson 103 - Databases & Analytics Summary_~~ [2024-01-04]
-- [ ] 9. Other Compute Services: ECS, Lambda, Batch, Lightsail (39min)
-  - [ ] Lesson 104 - What is Docker?
-  - [ ] Lesson 105 - ECS, Fargate & ECR Overview
-  - [ ] Lesson 106 - Serverless Introduction
-  - [ ] Lesson 107 - Lambda Overview
-  - [ ] Lesson 108 - Lambda Hands On
-  - [ ] Lesson 109 - API Gateway Overview
-  - [ ] Lesson 110 - Batch Overview
-  - [ ] Lesson 111 - Lightsail Overview
-  - [ ] Lesson 112 - Lightsail Hands On
-  - [ ] Lesson 113 - Other Compute - Summary
-- [ ] 10. Deployment & Managing Infrastructure at Scale (62min)
-  - [ ] Lesson 114 - CloudFormation Overview
-  - [ ] Lesson 115 - CloudFormation Hands On
-  - [ ] Lesson 116 - CDK Overview
-  - [ ] Lesson 117 - Beanstalk Overview
-  - [ ] Lesson 118 - Beanstalk Hands On
-  - [ ] Lesson 119 - CodeDeploy Overview
-  - [ ] Lesson 120 - CodeCommit Overview
-  - [ ] Lesson 121 - CodeBuild Overview
-  - [ ] Lesson 122 - CodePipeline Overview
-  - [ ] Lesson 123 - CodeArtifact Overview
-  - [ ] Lesson 124 - CodeStar Overview
-  - [ ] Lesson 125 - Cloud9 Overview
-  - [ ] Lesson 126 - CodeStar & Cloud9 Hands On
-  - [ ] Lesson 127 - Systems Manager (SSM) Overview
-  - [ ] Lesson 128 - SSM Session Manager
-  - [ ] Lesson 129 - OpsWorks Overview
-  - [ ] Lesson 130 - Deployment Summary
+- [x] ~~_9. Other Compute Services: ECS, Lambda, Batch, Lightsail (39min)_~~ [2024-01-05]
+  - [x] ~~_Lesson 104 - What is Docker?_~~ [2024-01-05]
+  - [x] ~~_Lesson 105 - ECS, Fargate & ECR Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 106 - Serverless Introduction_~~ [2024-01-05]
+  - [x] ~~_Lesson 107 - Lambda Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 108 - Lambda Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 109 - API Gateway Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 110 - Batch Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 111 - Lightsail Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 112 - Lightsail Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 113 - Other Compute - Summary_~~ [2024-01-05]
+- [x] ~~_10. Deployment & Managing Infrastructure at Scale (62min)_~~ [2024-01-05]
+  - [x] ~~_Lesson 114 - CloudFormation Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 115 - CloudFormation Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 116 - CDK Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 117 - Beanstalk Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 118 - Beanstalk Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 119 - CodeDeploy Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 120 - CodeCommit Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 121 - CodeBuild Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 122 - CodePipeline Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 123 - CodeArtifact Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 124 - CodeStar Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 125 - Cloud9 Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 126 - CodeStar & Cloud9 Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 127 - Systems Manager (SSM) Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 128 - SSM Session Manager_~~ [2024-01-05]
+  - [x] ~~_Lesson 129 - OpsWorks Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 130 - Deployment Summary_~~ [2024-01-05]
 - [ ] 11. Leveraging the AWS Global Infrastructure (48min)
-  - [ ] Lesson 131 - Why Global Applications?
-  - [ ] Lesson 132 - Route 53 Overview
-  - [ ] Lesson 133 - Route 53 Hands On
-  - [ ] Lesson 134 - CloudFront Overview
-  - [ ] Lesson 135 - CloudFront Hands On
-  - [ ] Lesson 136 - S3 Transfer Acceleration
+  - [x] ~~_Lesson 131 - Why Global Applications?_~~ [2024-01-05]
+  - [x] ~~_Lesson 132 - Route 53 Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 133 - Route 53 Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 134 - CloudFront Overview_~~ [2024-01-05]
+  - [x] ~~_Lesson 135 - CloudFront Hands On_~~ [2024-01-05]
+  - [x] ~~_Lesson 136 - S3 Transfer Acceleration_~~ [2024-01-05]
   - [ ] Lesson 137 - AWS Global Accelerator
   - [ ] Lesson 138 - AWS Outposts
   - [ ] Lesson 139 - AWS WaveLength
@@ -587,3 +590,27 @@
   - Aurora DB (AWS Proprietary database)
     - PostgreSQL (3x) and MySQL (5x)
     - Grows at 10GB increment up to 128GB
+- ![](img/Screenshot%202024-01-04%20at%207.48.28 PM.png)
+
+### 9. Other Compute Services: ECS Lambda, Batch, Lightsail
+
+- ![](img/Screenshot%202024-01-05%20at%209.32.00 AM.png)
+- ![](img/Screenshot%202024-01-05%20at%209.32.56 AM.png)
+
+### 10. Deployment & Managing Infrastructure at Scale
+
+- ![](./img/Screenshot%202024-01-05%20at%2010.37.01 AM.png)
+- ![](img/Screenshot%202024-01-05%20at%2010.37.54 AM.png)
+
+### 11. Leveraging the AWS Global Infrastructure
+
+- Route53 Managed DNS (Domain Name System)
+  - Simple Policy - No health checks
+  - Weighted Routing Policy - distribute traffic across multiple instances
+  - Latency Routing Policy - performance enhancement via proximity
+  - Failure Routing Policy - disaster recovery
+- AWS Cloudfront
+  - Content Delivery Network (CDN)
+  - 216 Points of Presence
+  - Great for hosting static content close to the user, has built-in cache optimizations
+- S3 Transfer Acceleration
