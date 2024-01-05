@@ -14,6 +14,7 @@
     - [9. Other Compute Services: ECS Lambda, Batch, Lightsail](#9-other-compute-services-ecs-lambda-batch-lightsail)
     - [10. Deployment \& Managing Infrastructure at Scale](#10-deployment--managing-infrastructure-at-scale)
     - [11. Leveraging the AWS Global Infrastructure](#11-leveraging-the-aws-global-infrastructure)
+    - [Cloud Integrations](#cloud-integrations)
 
 ## Lesson Plan (30 hours)
 
@@ -157,21 +158,21 @@
   - [x] ~~_Lesson 128 - SSM Session Manager_~~ [2024-01-05]
   - [x] ~~_Lesson 129 - OpsWorks Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 130 - Deployment Summary_~~ [2024-01-05]
-- [ ] 11. Leveraging the AWS Global Infrastructure (48min)
+- [x] ~~_11. Leveraging the AWS Global Infrastructure (48min)_~~ [2024-01-05]
   - [x] ~~_Lesson 131 - Why Global Applications?_~~ [2024-01-05]
   - [x] ~~_Lesson 132 - Route 53 Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 133 - Route 53 Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 134 - CloudFront Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 135 - CloudFront Hands On_~~ [2024-01-05]
   - [x] ~~_Lesson 136 - S3 Transfer Acceleration_~~ [2024-01-05]
-  - [ ] Lesson 137 - AWS Global Accelerator
-  - [ ] Lesson 138 - AWS Outposts
-  - [ ] Lesson 139 - AWS WaveLength
-  - [ ] Lesson 140 - AWS Local Zones
-  - [ ] Lesson 141 - Global Applications Architecture
-  - [ ] Lesson 142 - Leveraging the AWS Global Infrastructure Summary
+  - [x] ~~_Lesson 137 - AWS Global Accelerator_~~ [2024-01-05]
+  - [x] ~~_Lesson 138 - AWS Outposts_~~ [2024-01-05]
+  - [x] ~~_Lesson 139 - AWS WaveLength_~~ [2024-01-05]
+  - [x] ~~_Lesson 140 - AWS Local Zones_~~ [2024-01-05]
+  - [x] ~~_Lesson 141 - Global Applications Architecture_~~ [2024-01-05]
+  - [x] ~~_Lesson 142 - Leveraging the AWS Global Infrastructure Summary_~~ [2024-01-05]
 - [ ] 12. Cloud Integrations (18min)
-  - [ ] Lesson 143 - Cloud Integrations Overview
+  - [x] ~~_Lesson 143 - Cloud Integrations Overview_~~ [2024-01-05]
   - [ ] Lesson 144 - SQS Overview
   - [ ] Lesson 145 - SQS Hands On
   - [ ] Lesson 146 - Kinesis Overview
@@ -614,3 +615,27 @@
   - 216 Points of Presence
   - Great for hosting static content close to the user, has built-in cache optimizations
 - S3 Transfer Acceleration
+  - Increase upload/downloads to S3 by routing the transfer to an edge location instead of specific instance AZ
+- AWS Global Accelerator
+  - It's like you get on and off the AWS superhighway via edge locations instead of using the dirty internet of the masses that is bumping and slower.
+  - [AWS Global Accelerator Speed Test](https://speedtest.globalaccelerator.aws)
+- AWS Outposts
+  - "Server Racks" same AWS infrastructure and you manage them the same way
+  - An On-Premise version of AWS
+- AWS Wavelength -> 5G Network (Deployment at the Edge - mobile speed at scale)
+  - No additional charges
+- AWS Local Zones
+  - closer to end users to run latency-sensitive applications
+- Global Applications Architecture
+  - Single Region/AZ, Single Region, Multi AZ; Multi Region, Active-Passive; Multi Region Active-Active
+- AWS Global Infrastructure Summary
+  - ![](./img/Screenshot%202024-01-05%20at%2011.39.13 AM.png)
+  - ![](./img/Screenshot%202024-01-05%20at%209.32.56 AM.png)
+
+### Cloud Integrations
+
+- SQS (Simple Queue Service)
+- Kinesis
+- Amazon MQ
+- Cloud Integrations Summary:
+  -
