@@ -202,7 +202,7 @@
   - [x] ~~_Lesson 166 - VPC, Subnet, Internet Gateway & NAT Gateways_~~ [2024-01-05]
   - [x] ~~_Lesson 167 - Security Groups & Network Access Control List (NACL)_~~ [2024-01-05]
   - [x] ~~_Lesson 168 - VPC Flow Logs & VPC Peering_~~ [2024-01-05]
-  - [ ] Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)
+  - [x] ~~_Lesson 169 - VPC Endpoints - Interface & Gateway (s3 & DynamoDB)_~~ [2024-01-05]
   - [ ] Lesson 170 - PrivateLink
   - [ ] Lesson 171 - Direct Connect & Site-to-Site VPN
   - [ ] Lesson 172 - Client VPN
@@ -727,3 +727,7 @@
   - Make to VPC work like they are in the same VPC
   - Pairing is not transitive
 - VPC Endpoints
+  - allow you to connect to AWS Services using a private networks
+  - enhanced security and lower latency
+- VPC Endpoint Gateway - works only for S3 & DynamoDB
+- VPC Endpoint Interface - all other services
