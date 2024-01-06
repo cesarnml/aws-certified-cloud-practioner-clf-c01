@@ -244,8 +244,8 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 204 - Textract Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 205 - Machine Learning Summary_~~ [2024-01-06]
 - [ ] 17. Account Management, Billing & Support (78min)
-  - [ ] Lesson 206 - Organizations Overview
-  - [ ] Lesson 207 - Organizations Hands On
+  - [x] ~~_Lesson 206 - Organizations Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 207 - Organizations Hands On_~~ [2024-01-06]
   - [ ] Lesson 208 - Organizations Consolidated Billing
   - [ ] Lesson 209 - AWS Control Tower Overview
   - [ ] Lesson 210 - AWS Control Tower Hands On
@@ -825,3 +825,12 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - ![](img/Screenshot%202024-01-06%20at%2012.09.52 PM.png)
 
 ### 17. Account Management, Billing & Support
+
+- AWS Organizations
+- AWS Control Tower
+- AWS Resource Access Manager (AWS RAM)
+- AWS Service Catalog
+- Pricing Models of the Cloud
+- Savings Plan Overview
+- Compute Optimizer
+- Billing & costing Tools
