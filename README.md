@@ -17,6 +17,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [13. Cloud Monitoring](#13-cloud-monitoring)
   - [14. VPC \& Networking](#14-vpc--networking)
   - [15. Security \& Compliance](#15-security--compliance)
+  - [16. Machine Learning](#16-machine-learning)
 
 ## Lesson Plan (30 hours)
 
@@ -208,26 +209,26 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 172 - Client VPN_~~ [2024-01-05]
   - [x] ~~_Lesson 173 - Transit Gateway Overview_~~ [2024-01-05]
   - [x] ~~_Lesson 174 - VPC & Networking Summary_~~ [2024-01-05]
-- [ ] 15. Security & Compliance (54min)
+- [x] ~~_15. Security & Compliance (54min)_~~ [2024-01-06]
   - [x] ~~_Lesson 175 - Shared Responsibility Model: Reminders & Examples_~~ [2024-01-05]
   - [x] ~~_Lesson 176 - DDoS Protection: WAF & Shield_~~ [2024-01-05]
   - [x] ~~_Lesson 177 - AWS Network Firewall_~~ [2024-01-05]
   - [x] ~~_Lesson 178 - Penetration Testing_~~ [2024-01-05]
   - [x] ~~_Lesson 179 - Encryption with KMS & CloudHSM_~~ [2024-01-05]
   - [x] ~~_Lesson 180 - Encryption with KMS & CloudHSM Hands On_~~ [2024-01-05]
-  - [ ] Lesson 181 - AWS Certificate Manager (ACM) Overview
-  - [ ] Lesson 182 - Secrets Manager Overview
-  - [ ] Lesson 183 - Artifact Overview
-  - [ ] Lesson 184 - GuardDuty Overview
-  - [ ] Lesson 185 - Inspector Overview
-  - [ ] Lesson 186 - Config Overview
-  - [ ] Lesson 187 - Macie Overview
-  - [ ] Lesson 188 - Security Hub Overview
-  - [ ] Lesson 189 - Amazon Detective Overview
-  - [ ] Lesson 190 - AWS Abuse
-  - [ ] Lesson 191 - Root User Privileges
-  - [ ] Lesson 192 - IAM Access Analyzer
-  - [ ] Lesson 193 - Security & Compliance Summary
+  - [x] ~~_Lesson 181 - AWS Certificate Manager (ACM) Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 182 - Secrets Manager Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 183 - Artifact Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 184 - GuardDuty Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 185 - Inspector Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 186 - Config Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 187 - Macie Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 188 - Security Hub Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 189 - Amazon Detective Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 190 - AWS Abuse_~~ [2024-01-06]
+  - [x] ~~_Lesson 191 - Root User Privileges_~~ [2024-01-06]
+  - [x] ~~_Lesson 192 - IAM Access Analyzer_~~ [2024-01-06]
+  - [x] ~~_Lesson 193 - Security & Compliance Summary_~~ [2024-01-06]
 - [ ] 16. Machine Learning (20min)
   - [ ] Lesson 194 - Rekognition Overview
   - [ ] Lesson 195 - Transcribe Overview
@@ -798,3 +799,11 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - CloudHSM (we manage the keys)
   - Customer Master Keys (CMK) - Customer Manages CMK
     - We manage the security of the keys - different from AWS managed CMK
+- Security and Compliance Summary:
+  - ![](img/Screenshot%202024-01-06%20at%2011.43.02 AM.png)
+  - ![](img/Screenshot%202024-01-06%20at%2011.44.39 AM.png)
+
+### 16. Machine Learning
+
+- Rekognition
+  -
