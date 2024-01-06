@@ -246,15 +246,15 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 - [ ] 17. Account Management, Billing & Support (78min)
   - [x] ~~_Lesson 206 - Organizations Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 207 - Organizations Hands On_~~ [2024-01-06]
-  - [ ] Lesson 208 - Organizations Consolidated Billing
-  - [ ] Lesson 209 - AWS Control Tower Overview
-  - [ ] Lesson 210 - AWS Control Tower Hands On
-  - [ ] Lesson 211 - AWS Resource Access Manager (AWS RAM)
-  - [ ] Lesson 212 - AWS Service Catalog - Overview
-  - [ ] Lesson 213 - Pricing Models of the Cloud
-  - [ ] Lesson 214 - Savings Plan Overview
-  - [ ] Lesson 215 - Compute Optimizer Overview
-  - [ ] Lesson 216 - Billing & Costing Tools Overview
+  - [x] ~~_Lesson 208 - Organizations Consolidated Billing_~~ [2024-01-06]
+  - [x] ~~_Lesson 209 - AWS Control Tower Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 210 - AWS Control Tower Hands On_~~ [2024-01-06]
+  - [x] ~~_Lesson 211 - AWS Resource Access Manager (AWS RAM)_~~ [2024-01-06]
+  - [x] ~~_Lesson 212 - AWS Service Catalog - Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 213 - Pricing Models of the Cloud_~~ [2024-01-06]
+  - [x] ~~_Lesson 214 - Savings Plan Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 215 - Compute Optimizer Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 216 - Billing & Costing Tools Overview_~~ [2024-01-06]
   - [ ] Lesson 217 - Estimating Costs in the Cloud - Pricing Calculator
   - [ ] Lesson 218 - Tracking Costs in the Cloud - Billing Dashboard, Cost Allocation Tags, Reports
   - [ ] Lesson 219 - Monitoring Costs in the Cloud - Billing Alarms & AWS Budgets
