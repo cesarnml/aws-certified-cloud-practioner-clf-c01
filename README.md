@@ -21,6 +21,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [17. Account Management, Billing \& Support](#17-account-management-billing--support)
   - [18. Advanced Identity](#18-advanced-identity)
   - [19. Other Services](#19-other-services)
+  - [20. AWS Architecting \& Ecosystems](#20-aws-architecting--ecosystems)
 
 ## Lesson Plan (30 hours)
 
@@ -272,7 +273,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 228 - Directory Services Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 229 - AWS IAM Identity Center_~~ [2024-01-06]
   - [x] ~~_Lesson 230 - Advanced Identity - Summary_~~ [2024-01-06]
-- [ ] 19. Other Services (29min)
+- [x] ~~_19. Other Services (29min)_~~ [2024-01-06]
   - [x] ~~_Lesson 231 - Other Services - Section Intro_~~ [2024-01-06]
   - [x] ~~_Lesson 232 - WorkSpaces Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 233 - AppStream 2.0 Overview_~~ [2024-01-06]
@@ -285,12 +286,12 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 240 - Disaster Recovery Strategies_~~ [2024-01-06]
   - [x] ~~_Lesson 241 - AWS Elastic Disaster Recover (DRS)_~~ [2024-01-06]
   - [x] ~~_Lesson 242 - AWS DataSync_~~ [2024-01-06]
-  - [ ] Lesson 243 - Application Discovery Service & Application Migration Service
-  - [ ] Lesson 244 - AWS Migration Evaluator
-  - [ ] Lesson 245 - AWS Fault Injection Simulator (FIS)
-  - [ ] Lesson 246 - Step Functions
-  - [ ] Lesson 247 - Ground Station
-  - [ ] Lesson 248 - AWS Pinpoint
+  - [x] ~~_Lesson 243 - Application Discovery Service & Application Migration Service_~~ [2024-01-06]
+  - [x] ~~_Lesson 244 - AWS Migration Evaluator_~~ [2024-01-06]
+  - [x] ~~_Lesson 245 - AWS Fault Injection Simulator (FIS)_~~ [2024-01-06]
+  - [x] ~~_Lesson 246 - Step Functions_~~ [2024-01-06]
+  - [x] ~~_Lesson 247 - Ground Station_~~ [2024-01-06]
+  - [x] ~~_Lesson 248 - AWS Pinpoint_~~ [2024-01-06]
 - [ ] 20. AWS Architecting & Ecosystem (52min)
   - [ ] Lesson 249 - AWS WhitePapers Well-Architected Framework
   - [ ] Lesson 250 - Pillar 1: Operational Excellence
@@ -893,8 +894,31 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 - AWS DataSync
   - Incremental data sync
 - Application Discovery Service & Application Migration Service
+  - Agentless Discovery (AWS Agentless Discovery Connector)
+  - Agent-based Discovery (AWS Application Discovery Agent)
+  - Visualize with AWS Migration Hub
+  - Move: AWS Application Migration Service (MGN)
 - AWS Migration Evaluator
+  - Check how your migration will be good for ya. yum.
 - AWS Fault Injection Simulator (FIS)
+  - Chaos Engineering
+  - Helps you prepare for unknown-unknowns
 - Step Functions
+  - helps orchestrate Lambda functions
 - Ground Station
+  - Let's you control satellite communications
 - AWS Pinpoint
+  - 2-way (inbound/outbound) marketing communication services
+  - Like Twilio SMS service
+
+### 20. AWS Architecting & Ecosystems
+
+- AWS Whitepapers
+- Well-Architected Framework
+  - Pillar 1: Operational Excellence
+  - Pillar 2: Security
+  - Pillar 3: Reliability
+  - Pillar 4: Performance Efficiency
+  - Pillar 5: Cost Optimization
+  - Pillar 6: Sustainability
+- AWS Well-Architected Tool
