@@ -229,19 +229,19 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 191 - Root User Privileges_~~ [2024-01-06]
   - [x] ~~_Lesson 192 - IAM Access Analyzer_~~ [2024-01-06]
   - [x] ~~_Lesson 193 - Security & Compliance Summary_~~ [2024-01-06]
-- [ ] 16. Machine Learning (20min)
-  - [ ] Lesson 194 - Rekognition Overview
-  - [ ] Lesson 195 - Transcribe Overview
-  - [ ] Lesson 196 - Polly Overview
-  - [ ] Lesson 197 - Translate Overview
-  - [ ] Lesson 198 - Lex + Connect Overview
-  - [ ] Lesson 199 - Comprehend Overview
-  - [ ] Lesson 200 - SageMaker Overview
-  - [ ] Lesson 201 - Forecast Overview
-  - [ ] Lesson 202 - Kendra Overview
-  - [ ] Lesson 203 - Personalize Overview
-  - [ ] Lesson 204 - Textract Overview
-  - [ ] Lesson 205 - Machine Learning Summary
+- [x] ~~_16. Machine Learning (20min)_~~ [2024-01-06]
+  - [x] ~~_Lesson 194 - Rekognition Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 195 - Transcribe Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 196 - Polly Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 197 - Translate Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 198 - Lex + Connect Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 199 - Comprehend Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 200 - SageMaker Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 201 - Forecast Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 202 - Kendra Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 203 - Personalize Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 204 - Textract Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 205 - Machine Learning Summary_~~ [2024-01-06]
 - [ ] 17. Account Management, Billing & Support (78min)
   - [ ] Lesson 206 - Organizations Overview
   - [ ] Lesson 207 - Organizations Hands On
@@ -806,4 +806,19 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 ### 16. Machine Learning
 
 - Rekognition
-  -
+  - Find people, objects, text, scenes in _images_ and _videos_ using ML (cool!)
+  - Facial analysis and search to do _verification_, _counting_
+  - Use Cases:
+    - Labeling
+    - Content Moderation
+    - TextDetection
+    - Face Detection and Analysis
+    - Celebrity Recognition
+    - Pathing (sports game analysis)
+- Transcribe
+  - _convert speech_ into _text_
+  - Automatic Speech Recognition (ASR)
+  - Uses Redaction to remove \*Personally Identifiable Information (PII)
+  - Supports identification for multi-lingual audio
+- Machine Learning Summary
+  - ![](img/Screenshot%202024-01-06%20at%2012.09.52 PM.png)
