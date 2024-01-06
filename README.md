@@ -18,6 +18,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [14. VPC \& Networking](#14-vpc--networking)
   - [15. Security \& Compliance](#15-security--compliance)
   - [16. Machine Learning](#16-machine-learning)
+  - [17. Account Management, Billing \& Support](#17-account-management-billing--support)
 
 ## Lesson Plan (30 hours)
 
@@ -822,3 +823,5 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - Supports identification for multi-lingual audio
 - Machine Learning Summary
   - ![](img/Screenshot%202024-01-06%20at%2012.09.52 PM.png)
+
+### 17. Account Management, Billing & Support
