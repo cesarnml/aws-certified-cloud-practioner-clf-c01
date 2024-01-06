@@ -19,6 +19,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [15. Security \& Compliance](#15-security--compliance)
   - [16. Machine Learning](#16-machine-learning)
   - [17. Account Management, Billing \& Support](#17-account-management-billing--support)
+  - [18. Advanced Identity](#18-advanced-identity)
 
 ## Lesson Plan (30 hours)
 
@@ -243,7 +244,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 203 - Personalize Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 204 - Textract Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 205 - Machine Learning Summary_~~ [2024-01-06]
-- [ ] 17. Account Management, Billing & Support (78min)
+- [x] ~~_17. Account Management, Billing & Support (78min)_~~ [2024-01-06]
   - [x] ~~_Lesson 206 - Organizations Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 207 - Organizations Hands On_~~ [2024-01-06]
   - [x] ~~_Lesson 208 - Organizations Consolidated Billing_~~ [2024-01-06]
@@ -255,21 +256,21 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 214 - Savings Plan Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 215 - Compute Optimizer Overview_~~ [2024-01-06]
   - [x] ~~_Lesson 216 - Billing & Costing Tools Overview_~~ [2024-01-06]
-  - [ ] Lesson 217 - Estimating Costs in the Cloud - Pricing Calculator
-  - [ ] Lesson 218 - Tracking Costs in the Cloud - Billing Dashboard, Cost Allocation Tags, Reports
-  - [ ] Lesson 219 - Monitoring Costs in the Cloud - Billing Alarms & AWS Budgets
-  - [ ] Lesson 220 - AWS Cost Anomaly Detection
-  - [ ] Lesson 221 - AWS Service Quotas
-  - [ ] Lesson 222 - AWS Trusted Advisor
-  - [ ] Lesson 223 - Support Plans for AWS
-  - [ ] Lesson 224 - Account Best Practices Summary
-  - [ ] Lesson 225 - Billing Summary
-- [ ] 18. Advanced Identity (9min)
-  - [ ] Lesson 226 - Security Token Service (STS) Overview
-  - [ ] Lesson 227 - Cognito Overview
-  - [ ] Lesson 228 - Directory Services Overview
-  - [ ] Lesson 229 - AWS IAM Identity Center
-  - [ ] Lesson 230 - Advanced Identity - Summary
+  - [x] ~~_Lesson 217 - Estimating Costs in the Cloud - Pricing Calculator_~~ [2024-01-06]
+  - [x] ~~_Lesson 218 - Tracking Costs in the Cloud - Billing Dashboard, Cost Allocation Tags, Reports_~~ [2024-01-06]
+  - [x] ~~_Lesson 219 - Monitoring Costs in the Cloud - Billing Alarms & AWS Budgets_~~ [2024-01-06]
+  - [x] ~~_Lesson 220 - AWS Cost Anomaly Detection_~~ [2024-01-06]
+  - [x] ~~_Lesson 221 - AWS Service Quotas_~~ [2024-01-06]
+  - [x] ~~_Lesson 222 - AWS Trusted Advisor_~~ [2024-01-06]
+  - [x] ~~_Lesson 223 - Support Plans for AWS_~~ [2024-01-06]
+  - [x] ~~_Lesson 224 - Account Best Practices Summary_~~ [2024-01-06]
+  - [x] ~~_Lesson 225 - Billing Summary_~~ [2024-01-06]
+- [x] ~~_18. Advanced Identity (9min)_~~ [2024-01-06]
+  - [x] ~~_Lesson 226 - Security Token Service (STS) Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 227 - Cognito Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 228 - Directory Services Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 229 - AWS IAM Identity Center_~~ [2024-01-06]
+  - [x] ~~_Lesson 230 - Advanced Identity - Summary_~~ [2024-01-06]
 - [ ] 19. Other Services (29min)
   - [ ] Lesson 231 - Other Services - Section Intro
   - [ ] Lesson 232 - WorkSpaces Overview
@@ -834,3 +835,34 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 - Savings Plan Overview
 - Compute Optimizer
 - Billing & costing Tools
+- AWS Cost Anomaly Detection
+- AWS Service Quotas
+- AWS Trusted Advisor
+  - Cost Optimization
+  - Performance
+  - Security
+  - Fault Tolerance
+  - Service Limits
+- Support Plans
+  - Basic & Developer Support Plans (7 CORE Checks)
+    - S3 Bucket Permissions
+    - Security Groups
+    - IAM Use
+    - MFA on Root Accounts
+    - EBS Public Snapshots
+    - RDS Public Snapshots
+    - Service Limits
+    - Business & Enterprise Checks (FULL CHECKS)
+      - Programmatic Access using AWS Support API
+- Account Best Practices Summary
+  - ![](./img/Screenshot%202024-01-06%20at%208.41.31 PM.png)
+  - ![](./img/Screenshot%202024-01-06%20at%208.43.13 PM.png)
+
+### 18. Advanced Identity
+
+- Security Token Service (STS)
+- Cognito
+- Directory Services
+- AWS IAM Identity Center
+- Advanced Identity
+  - ![](./img/Screenshot%202024-01-06%20at%208.57.34 PM.png)
