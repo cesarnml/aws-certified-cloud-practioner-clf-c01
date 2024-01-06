@@ -20,6 +20,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [16. Machine Learning](#16-machine-learning)
   - [17. Account Management, Billing \& Support](#17-account-management-billing--support)
   - [18. Advanced Identity](#18-advanced-identity)
+  - [19. Other Services](#19-other-services)
 
 ## Lesson Plan (30 hours)
 
@@ -272,18 +273,18 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 229 - AWS IAM Identity Center_~~ [2024-01-06]
   - [x] ~~_Lesson 230 - Advanced Identity - Summary_~~ [2024-01-06]
 - [ ] 19. Other Services (29min)
-  - [ ] Lesson 231 - Other Services - Section Intro
-  - [ ] Lesson 232 - WorkSpaces Overview
-  - [ ] Lesson 233 - AppStream 2.0 Overview
-  - [ ] Lesson 234 - IoT Core Overview
-  - [ ] Lesson 235 - Elastic Transcoder Overview
-  - [ ] Lesson 236 - AppSync
-  - [ ] Lesson 237 - Amplify
-  - [ ] Lesson 238 - Device Farm Overview
-  - [ ] Lesson 239 - AWS Backup Overview
-  - [ ] Lesson 240 - Disaster Recovery Strategies
-  - [ ] Lesson 241 - AWS Elastic Disaster Recover (DRS)
-  - [ ] Lesson 242 - AWS DataSync
+  - [x] ~~_Lesson 231 - Other Services - Section Intro_~~ [2024-01-06]
+  - [x] ~~_Lesson 232 - WorkSpaces Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 233 - AppStream 2.0 Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 234 - IoT Core Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 235 - Elastic Transcoder Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 236 - AppSync_~~ [2024-01-06]
+  - [x] ~~_Lesson 237 - Amplify_~~ [2024-01-06]
+  - [x] ~~_Lesson 238 - Device Farm Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 239 - AWS Backup Overview_~~ [2024-01-06]
+  - [x] ~~_Lesson 240 - Disaster Recovery Strategies_~~ [2024-01-06]
+  - [x] ~~_Lesson 241 - AWS Elastic Disaster Recover (DRS)_~~ [2024-01-06]
+  - [x] ~~_Lesson 242 - AWS DataSync_~~ [2024-01-06]
   - [ ] Lesson 243 - Application Discovery Service & Application Migration Service
   - [ ] Lesson 244 - AWS Migration Evaluator
   - [ ] Lesson 245 - AWS Fault Injection Simulator (FIS)
@@ -866,3 +867,34 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 - AWS IAM Identity Center
 - Advanced Identity
   - ![](./img/Screenshot%202024-01-06%20at%208.57.34 PM.png)
+
+### 19. Other Services
+
+- AWSWorkSpaces
+  - Managed Desktop as a Service (DaaS) - Linux or Windows
+- AppStream 2.0
+  - Stream application to a web browser
+- IoT Core
+  - Easily connected IoT devices to the Cloud
+- Elastic Transcoder
+  - Convert media files in S3 to useful Customer formats
+- AppSync
+  - GraphQL
+- Amplify
+  - mobile application backend as a service
+- Device Farm
+  - Test against real devices
+- AWS Backup
+  - Managed backup service
+- Disaster Recovery Strategies
+  - Backup and Restore (Cheapest)
+- AWS Elastic Disaster Recover (DRS)
+  - Fancy Disaster Recovery
+- AWS DataSync
+  - Incremental data sync
+- Application Discovery Service & Application Migration Service
+- AWS Migration Evaluator
+- AWS Fault Injection Simulator (FIS)
+- Step Functions
+- Ground Station
+- AWS Pinpoint
