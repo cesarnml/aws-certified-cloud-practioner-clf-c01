@@ -310,9 +310,9 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 262 - AWS Managed Services_~~ [2024-01-07]
 - [ ] 21. Preparing for the Exam + Practice Exam - AWS CCP (23min)
   - [x] ~~_Lesson 263 - Words on Other Services_~~ [2024-01-07]
-  - [ ] Lesson 264 - State of Learning Checkpoint - AWS Certified Cloud Practioner
-  - [ ] Lesson 265 - Exam Sample Question Walkthrough
-  - [ ] Lesson 266 - Exam Tips - AWS Certified Cloud Practioner
+  - [x] ~~_Lesson 264 - State of Learning Checkpoint - AWS Certified Cloud Practioner_~~ [2024-01-07]
+  - [x] ~~_Lesson 265 - Exam Sample Question Walkthrough_~~ [2024-01-07]
+  - [x] ~~_Lesson 266 - Exam Tips - AWS Certified Cloud Practioner_~~ [2024-01-07]
   - [ ] Lesson 267 - Exam Walkthrough and Signup
   - [ ] Lesson 268 - Save 50% on your AWS Exam Cost
   - [ ] Lesson 269 - Get an Extra 30 Minutes on your AWS Exam - Non Native English Speakers only
@@ -1008,3 +1008,5 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - 24/365 availability
 
 ### 21. Preparing for the Exam
+
+- No notes
