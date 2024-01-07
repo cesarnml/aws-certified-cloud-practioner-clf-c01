@@ -22,6 +22,7 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [18. Advanced Identity](#18-advanced-identity)
   - [19. Other Services](#19-other-services)
   - [20. AWS Architecting \& Ecosystems](#20-aws-architecting--ecosystems)
+  - [21. Preparing for the Exam](#21-preparing-for-the-exam)
 
 ## Lesson Plan (30 hours)
 
@@ -292,23 +293,23 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 246 - Step Functions_~~ [2024-01-06]
   - [x] ~~_Lesson 247 - Ground Station_~~ [2024-01-06]
   - [x] ~~_Lesson 248 - AWS Pinpoint_~~ [2024-01-06]
-- [ ] 20. AWS Architecting & Ecosystem (52min)
+- [x] ~~_20. AWS Architecting & Ecosystem (52min)_~~ [2024-01-07]
   - [x] ~~_Lesson 249 - AWS WhitePapers Well-Architected Framework_~~ [2024-01-07]
   - [x] ~~_Lesson 250 - Pillar 1: Operational Excellence_~~ [2024-01-07]
   - [x] ~~_Lesson 251 - Pillar 2: Security_~~ [2024-01-07]
-  - [ ] Lesson 252 - Pillar 3: Reliability
-  - [ ] Lesson 253 - Pillar 4: Performance Efficiency
-  - [ ] Lesson 254 - Pillar 5: Cost Optimization
-  - [ ] Lesson 255 - Pillar 6: Sustainability
-  - [ ] Lesson 256 - AWS Well-Architected Tool
-  - [ ] Lesson 257 - AWS Cloud Adoption Framework (CAF)
-  - [ ] Lesson 258 - Right Sizing
-  - [ ] Lesson 259 - AWS Ecosystem
-  - [ ] Lesson 260 - AWS Knowledge Center
-  - [ ] Lesson 261 - AWS IQ & re:Post
-  - [ ] Lesson 262 - AWS Managed Services
+  - [x] ~~_Lesson 252 - Pillar 3: Reliability_~~ [2024-01-07]
+  - [x] ~~_Lesson 253 - Pillar 4: Performance Efficiency_~~ [2024-01-07]
+  - [x] ~~_Lesson 254 - Pillar 5: Cost Optimization_~~ [2024-01-07]
+  - [x] ~~_Lesson 255 - Pillar 6: Sustainability_~~ [2024-01-07]
+  - [x] ~~_Lesson 256 - AWS Well-Architected Tool_~~ [2024-01-07]
+  - [x] ~~_Lesson 257 - AWS Cloud Adoption Framework (CAF)_~~ [2024-01-07]
+  - [x] ~~_Lesson 258 - Right Sizing_~~ [2024-01-07]
+  - [x] ~~_Lesson 259 - AWS Ecosystem_~~ [2024-01-07]
+  - [x] ~~_Lesson 260 - AWS Knowledge Center_~~ [2024-01-07]
+  - [x] ~~_Lesson 261 - AWS IQ & re:Post_~~ [2024-01-07]
+  - [x] ~~_Lesson 262 - AWS Managed Services_~~ [2024-01-07]
 - [ ] 21. Preparing for the Exam + Practice Exam - AWS CCP (23min)
-  - [ ] Lesson 263 - Words on Other Services
+  - [x] ~~_Lesson 263 - Words on Other Services_~~ [2024-01-07]
   - [ ] Lesson 264 - State of Learning Checkpoint - AWS Certified Cloud Practioner
   - [ ] Lesson 265 - Exam Sample Question Walkthrough
   - [ ] Lesson 266 - Exam Tips - AWS Certified Cloud Practioner
@@ -938,7 +939,72 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
     - Amazon CloudFront - Amazon VPC - AWS Shield - AWS WAF - Amazon Inspector
     - KMS, S3, ELB, Amazon EBS, Amazon RDS
   - Pillar 3: Reliability
+    - Test recovery procedures
+    - Automatically recover from failure
+    - Scale horizontally to increase aggregate system availability
+    - Stop guessing capacity
+    - Manage change automation
+    - Amazon VPC, Service Quotas, AWS Trusted Advisor
+    - AWS Auto Scaling
   - Pillar 4: Performance Efficiency
+    - Democratize advanced technologies
+    - Go global in minutes
+    - Use serverless architectures
+    - Experiment more often
+    - Mechanical sympathy
+    - AWS Auto Scaling, AWS Lambda, Amazon EBS, Amazon S3, Amazon RDS
+    - AWS News Blog
   - Pillar 5: Cost Optimization
+    - Adopt a consumption mode
+    - Measure overall efficiency
+    - Stop spending money on data centers operations
+    - Analyze and attribute expenditure
+      - AWS Budgets, AWS Cost and Usage Report, AWS Cost Explorer, Reserved Instance Reporting
   - Pillar 6: Sustainability
+    - Understand your impact
+    - Establish sustainability goals
+    - Maximize utilization
+    - Use managed services
 - AWS Well-Architected Tool
+  - Review your architectures
+- AWS Cloud Adoption Framework (AWS CAF)
+  - how to migrate onto AWS
+  - Business
+    - Data Science
+  - People
+    - Workforce Transformation
+    - bridge between technology and business
+  - Governance
+  - Platform
+    - modernize existing workflows and compatibility with the cloud
+  - Security
+    - Data Protection
+  - Operations
+  - Foundations
+    - Technology
+    - Process
+    - Organization
+    - Product
+- Right Sizing
+  - start small and scale up as needed
+  - before doing the Cloud Migration
+  - monitor so to adjust as needed
+- AWS Ecosystem
+  - AWS Blogs
+  - AWS Forums
+  - AWS Whitepapers & Guides
+  - AWS Partner Solutions (Quick Starts)
+  - AWS Solutions
+  - ![](./img/Screenshot%202024-01-07%20at%201.47.54 PM.png)
+- AWS Knowledge Center
+  - Contains the most frequent & common questions - FAQ
+- AWS IQ
+  - Quickly find professional help - like Fiverr for AWS
+- AWS re:Post
+  - in-house StackOverflow
+- AWS Managed Services
+  - Provides infrastructure and application support on AWS
+  - AMS offers a team of AWS experts
+  - 24/365 availability
+
+### 21. Preparing for the Exam
