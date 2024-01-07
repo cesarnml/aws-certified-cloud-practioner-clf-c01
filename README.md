@@ -293,9 +293,9 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 247 - Ground Station_~~ [2024-01-06]
   - [x] ~~_Lesson 248 - AWS Pinpoint_~~ [2024-01-06]
 - [ ] 20. AWS Architecting & Ecosystem (52min)
-  - [ ] Lesson 249 - AWS WhitePapers Well-Architected Framework
-  - [ ] Lesson 250 - Pillar 1: Operational Excellence
-  - [ ] Lesson 251 - Pillar 2: Security
+  - [x] ~~_Lesson 249 - AWS WhitePapers Well-Architected Framework_~~ [2024-01-07]
+  - [x] ~~_Lesson 250 - Pillar 1: Operational Excellence_~~ [2024-01-07]
+  - [x] ~~_Lesson 251 - Pillar 2: Security_~~ [2024-01-07]
   - [ ] Lesson 252 - Pillar 3: Reliability
   - [ ] Lesson 253 - Pillar 4: Performance Efficiency
   - [ ] Lesson 254 - Pillar 5: Cost Optimization
@@ -914,9 +914,29 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
 ### 20. AWS Architecting & Ecosystems
 
 - AWS Whitepapers
+  - Scalability - horizontal and vertical
+  - Disposable Resources - backup config, data, and quick restart
+  - Automation - Serverless, Auto-Scaling
+  - Loose Coupling
 - Well-Architected Framework
   - Pillar 1: Operational Excellence
+    - Perform operations as code
+    - Annotate documentation
+    - Make frequent, small, reversible changes
+    - Refine operations procedures frequently
+    - Anticipate failure
+    - Learn from all operational failures
+    - AWS CloudFormation ... AWS Config ... AWS CloudTrail ... AWS CloudWatch ... AWS X-Ray
   - Pillar 2: Security
+    - Implement a strong identity foundation
+    - Enable traceability
+    - Apply security at all layers
+    - Automate security best practices
+    - Protect data in transit and at rest
+    - Keep people away from data
+    - IAM - AWS-STS - MFA token - AWS Organizations
+    - Amazon CloudFront - Amazon VPC - AWS Shield - AWS WAF - Amazon Inspector
+    - KMS, S3, ELB, Amazon EBS, Amazon RDS
   - Pillar 3: Reliability
   - Pillar 4: Performance Efficiency
   - Pillar 5: Cost Optimization
