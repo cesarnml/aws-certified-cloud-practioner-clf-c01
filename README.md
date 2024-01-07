@@ -313,13 +313,13 @@ omp# AWS Certified Cloud Practioner Course - CLF-C02
   - [x] ~~_Lesson 264 - State of Learning Checkpoint - AWS Certified Cloud Practioner_~~ [2024-01-07]
   - [x] ~~_Lesson 265 - Exam Sample Question Walkthrough_~~ [2024-01-07]
   - [x] ~~_Lesson 266 - Exam Tips - AWS Certified Cloud Practioner_~~ [2024-01-07]
-  - [ ] Lesson 267 - Exam Walkthrough and Signup
-  - [ ] Lesson 268 - Save 50% on your AWS Exam Cost
-  - [ ] Lesson 269 - Get an Extra 30 Minutes on your AWS Exam - Non Native English Speakers only
-- [ ] 22. Congratulations - AWS CCP (8min)
-  - [ ] Lesson 270 - AWS Certification Paths
-  - [ ] Lesson 271 - Congratulations - AWS Certified Cloud Practitioner
-  - [ ] Lesson 272 - THANK YOU!
+  - [x] ~~_Lesson 267 - Exam Walkthrough and Signup_~~ [2024-01-07]
+  - [x] ~~_Lesson 268 - Save 50% on your AWS Exam Cost_~~ [2024-01-07]
+  - [x] ~~_Lesson 269 - Get an Extra 30 Minutes on your AWS Exam - Non Native English Speakers only_~~ [2024-01-07]
+- [x] ~~_22. Congratulations - AWS CCP (8min)_~~ [2024-01-07]
+  - [x] ~~_Lesson 270 - AWS Certification Paths_~~ [2024-01-07]
+  - [x] ~~_Lesson 271 - Congratulations - AWS Certified Cloud Practitioner_~~ [2024-01-07]
+  - [x] ~~_Lesson 272 - THANK YOU!_~~ [2024-01-07]
 
 ## Lesson Notes
 
